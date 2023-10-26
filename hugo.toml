@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Light in the Iron Cage'
+theme = 'PaperMod'
+
+[params]
+env = "production"
+mainSections = ["/_index/"]
+
+[[menu.main]]
+identifier = "Posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "Tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "Help"
+name = "Help"
+url = "/help/"
+weight = 30
