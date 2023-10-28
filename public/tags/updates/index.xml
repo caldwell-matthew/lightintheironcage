@@ -18,16 +18,5 @@ Visit the Hugo website!
 “There is no safe investment. To love at all is to be vulnerable. Love anything, and your heart will certainly be wrung and possibly broken. If you want to make sure of keeping it intact, you must give your heart to no one, not even to an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements; lock it up safe in the casket or coffin of your selfishness.</description>
     </item>
     
-    <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
-      <pubDate>Wed, 25 Oct 2023 20:01:52 -0400</pubDate>
-      
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!
-“There is no safe investment. To love at all is to be vulnerable. Love anything, and your heart will certainly be wrung and possibly broken. If you want to make sure of keeping it intact, you must give your heart to no one, not even to an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements; lock it up safe in the casket or coffin of your selfishness.</description>
-    </item>
-    
   </channel>
 </rss>

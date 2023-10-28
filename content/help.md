@@ -4,7 +4,7 @@ date = ''
 draft = false
 +++
 ***
-> Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.” **- Matthew 11:28-30** 
+> Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.” - **Matthew 11:28-30** 
 
 ## Mental Health Resources
 - https://www.samhsa.gov/find-help/national-helpline
@@ -26,6 +26,7 @@ draft = false
 - https://www.esv.org/
 - Gentle and Lowly: The Heart of Christ for Sinners and Sufferers (Dane C. Ortlund)
     > "That God is rich in mercy means that your regions of deepest shame and regret are not hotels through which divine mercy passes but homes in which divine mercy abides. It means the things about you that make you cringe most, make him hug hardest. It means his mercy is not calculating and cautious, like ours. It is unrestrained, flood-like, sweeping, magnanimous. It means our haunting shame is not a problem for him, but the very thing he loves most to work with. It means our sins do not cause his love to take a hit. Our sins cause his love to surge forward all the more. It means on that day when we stand before him, quietly, unhurriedly, we will weep with relief, shocked at how impoverished a view of his mercy-rich heart we had."- **Ortlund**
+
 - Morning and Evening (Charles H. Spurgeon)
     > "Let me encourage you in His name to diligently search and solemnly test your spiritual state, for fear you should come short of the promised rest. This is what every wise man does, and what God Himself does with us all." - **Spurgeon**
 

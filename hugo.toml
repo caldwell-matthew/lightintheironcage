@@ -8,19 +8,36 @@ env = "production"
 mainSections = ["/_index/"]
 
 [[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
+weight = 10
+
+[[menu.main]]
 identifier = "Posts"
 name = "Posts"
 url = "/posts/"
-weight = 10
+weight = 20
 
 [[menu.main]]
 identifier = "Tags"
 name = "Tags"
 url = "/tags/"
-weight = 20
+weight = 30
 
 [[menu.main]]
 identifier = "Help"
 name = "Help"
 url = "/help/"
-weight = 30
+weight = 40
+
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+    
+[[socialIcons]]
+name = "<platform 2>"
+url = "<link>"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
