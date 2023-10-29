@@ -3,7 +3,7 @@ title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = true
 layout = 'single'
-tags = ['Tags']
+tags = ['Quotes', 'Tags']
 author = ["Matthew Caldwell"]
 
 [cover]
@@ -12,3 +12,9 @@ alt = "<alt text>"
 caption = "<text>"
 relative = false
 +++
+
+Stuff
+
+---
+
+Thoughts.

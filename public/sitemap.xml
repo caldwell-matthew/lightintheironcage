@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2023-10-29T01:46:15-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/pain/</loc>
+    <lastmod>2023-10-29T01:46:15-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2023-10-29T01:46:15-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/quotes/</loc>
+    <lastmod>2023-10-29T01:46:15-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/tags/</loc>
+    <lastmod>2023-10-29T01:46:15-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2023-10-29T01:46:15-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/love/</loc>
+    <lastmod>2023-10-29T01:38:02-04:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/love/</loc>
+    <lastmod>2023-10-29T01:38:02-04:00</lastmod>
+  </url><url>
     <loc>https://example.org/search/</loc>
     <lastmod>2023-10-28T05:19:05-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2023-10-28T04:47:26-04:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/another-world/</loc>
     <lastmod>2023-10-28T04:47:26-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2023-10-28T04:47:26-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/quotes/</loc>
-    <lastmod>2023-10-28T04:47:26-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://example.org/tags/meaning/</loc>
     <lastmod>2023-10-28T04:47:26-04:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
