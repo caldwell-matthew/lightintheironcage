@@ -6,6 +6,15 @@ theme = 'PaperMod'
 [params]
 env = "production"
 mainSections = ["/_index/"]
+ShowShareButtons = true
+ShowReadingTime = true
+ShowBreadCrumbs = true
+ShowToc = true
+TocOpen = false
+
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
 
 [[menu.main]]
 identifier = "Search"
@@ -30,14 +39,3 @@ identifier = "Help"
 name = "Help"
 url = "/help/"
 weight = 40
-
-[params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
-    
-[[socialIcons]]
-name = "<platform 2>"
-url = "<link>"
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
