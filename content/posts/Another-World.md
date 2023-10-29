@@ -4,6 +4,7 @@ date = 2023-10-28T04:47:26-04:00
 draft = false
 layout = 'single'
 tags = ['Quotes']
+author = ["Matthew Caldwell"]
 
 [cover]
 image = "/img/space.jpg"

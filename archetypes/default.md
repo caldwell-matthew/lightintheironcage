@@ -4,6 +4,7 @@ date = {{ .Date }}
 draft = true
 layout = 'single'
 tags = ['Tags']
+author = ["Matthew Caldwell"]
 
 [cover]
 image = "/img/img.jpg"

@@ -11,10 +11,16 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 ShowToc = true
 TocOpen = false
+ShowPostNavLinks = true
 
 [params.homeInfoParams]
 Title = "Hi there wave"
 Content = "Can be Info, links, about..."
+
+[params.editPost]
+URL = "https://github.com/caldwell-matthew/lightintheironcage/tree/master/content"
+Text = "Suggest Changes"
+appendFilePath = true
 
 [[menu.main]]
 identifier = "Search"
