@@ -45,3 +45,6 @@ identifier = "Help"
 name = "Help"
 url = "/help/"
 weight = 40
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
