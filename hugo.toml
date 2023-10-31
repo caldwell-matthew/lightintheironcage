@@ -14,8 +14,24 @@ TocOpen = false
 ShowPostNavLinks = true
 
 [params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
+Title = "All my links"
+Content = "Best way to reach me is by email or discord, but I am also on the following sites."
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:caldwell.j.matthew@gmail.com?subject=Light%20in%20the%20Iron%20Cage&body=A%20Question%2C%20Comment%2C%20or%20Concern%3F"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.com/users/mattancholic"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/caldwell-matthew"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/caldwell-matthew/"
 
 [params.editPost]
 URL = "https://github.com/caldwell-matthew/lightintheironcage/tree/master/content"
