@@ -1,9 +1,9 @@
 +++
-title = 'About'
+title = 'About Me'
 +++
 
-Stuff
+> Hi. I'm Matthew. 
 
 ---
 
-Thoughts.
+> Thoughts.
