@@ -1,0 +1,9 @@
++++
+title = 'About'
++++
+
+Stuff
+
+---
+
+Thoughts.

@@ -22,6 +22,8 @@ title = 'Help'
 
 ## Good Books
 - https://www.esv.org/
+    > When the cares of my heart are many, your consolations cheer my soul. - **Psalm 94:19**
+
 - Gentle and Lowly: The Heart of Christ for Sinners and Sufferers (Dane C. Ortlund)
     > "That God is rich in mercy means that your regions of deepest shame and regret are not hotels through which divine mercy passes but homes in which divine mercy abides. It means the things about you that make you cringe most, make him hug hardest. It means his mercy is not calculating and cautious, like ours. It is unrestrained, flood-like, sweeping, magnanimous. It means our haunting shame is not a problem for him, but the very thing he loves most to work with. It means our sins do not cause his love to take a hit. Our sins cause his love to surge forward all the more. It means on that day when we stand before him, quietly, unhurriedly, we will weep with relief, shocked at how impoverished a view of his mercy-rich heart we had."- **Ortlund**
 

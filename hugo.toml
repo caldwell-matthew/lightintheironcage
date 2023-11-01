@@ -33,6 +33,10 @@ url = "https://github.com/caldwell-matthew"
 name = "linkedin"
 url = "https://www.linkedin.com/in/caldwell-matthew/"
 
+# [[params.socialIcons]]
+# name = "about"
+# url = "/about/"
+
 [params.editPost]
 URL = "https://github.com/caldwell-matthew/lightintheironcage/tree/master/content"
 Text = "Suggest Changes"
@@ -61,6 +65,12 @@ identifier = "Help"
 name = "Help"
 url = "/help/"
 weight = 40
+
+[[menu.main]]
+identifier = "About Me"
+name = "About Me"
+url = "/about/"
+weight = 50
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]

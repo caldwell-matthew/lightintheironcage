@@ -7,7 +7,7 @@ tags = ['Quotes', 'Love']
 author = ["Matthew Caldwell"]
 
 [cover]
-image = "/img/img.jpg"
+image = "/img/space.jpg"
 alt = "<alt text>"
 caption = "<text>"
 relative = false
@@ -19,4 +19,4 @@ relative = false
 
 ---
 
-Thoughts.
+> Thoughts.
