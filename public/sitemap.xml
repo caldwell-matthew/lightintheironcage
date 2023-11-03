@@ -32,6 +32,8 @@
     <loc>https://example.org/tags/meaning/</loc>
     <lastmod>2023-10-28T04:47:26-04:00</lastmod>
   </url><url>
+    <loc>https://example.org/about/</loc>
+  </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
     <loc>https://example.org/help/</loc>
