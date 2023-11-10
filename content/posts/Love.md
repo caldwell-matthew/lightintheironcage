@@ -19,4 +19,4 @@ relative = false
 
 ---
 
-> Thoughts.
+Thoughts.

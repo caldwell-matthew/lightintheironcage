@@ -21,4 +21,4 @@ relative = false
 
 ---
 
-> May we all be wise to remember that this world is not our home for those who love Christ. We may be living in the world now, but are not of it. This earth is but a marred reflection of what life is supposed to be. Once we see our savior and friend Jesus we will understand. We will see Him as He is and everything will make sense on that glorious day. The sky will be as blue and bright as it was meant to be. We will laugh wholeheartedly with our creator and eat and drink without worry. We will be able to live and love as we were designed without the hinderance of sin.
+May we all be wise to remember that this world is not our home for those who love Christ. We may be living in the world now, but are not of it. This earth is but a marred reflection of what life is supposed to be. Once we see our savior and friend Jesus we will understand. We will see Him as He is and everything will make sense on that glorious day. The sky will be as blue and bright as it was meant to be. We will laugh wholeheartedly with our creator and eat and drink without worry. We will be able to live and love as we were designed without the hinderance of sin.

@@ -6,4 +6,4 @@ title = 'About Me'
 
 ---
 
-> Thoughts.
+Thoughts.
