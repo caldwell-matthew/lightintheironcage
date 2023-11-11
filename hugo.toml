@@ -1,5 +1,5 @@
 baseURL = 'https://caldwell-matthew.github.io/lightintheironcage/'
-canonifyURLs = true
+CanonifyUrls = true 
 languageCode = 'en-us'
 title = 'Light in the Iron Cage'
 theme = 'PaperMod'
@@ -36,7 +36,7 @@ url = "https://www.linkedin.com/in/caldwell-matthew/"
 
 # [[params.socialIcons]]
 # name = "about"
-# url = "/about/"
+# url = "about/"
 
 [params.editPost]
 URL = "https://github.com/caldwell-matthew/lightintheironcage/tree/master/content"
@@ -46,31 +46,31 @@ appendFilePath = true
 [[menu.main]]
 identifier = "Search"
 name = "Search"
-url = "/search/"
+url = "search/"
 weight = 10
 
 [[menu.main]]
 identifier = "Posts"
 name = "Posts"
-url = "/posts/"
+url = "posts/"
 weight = 20
 
 [[menu.main]]
 identifier = "Tags"
 name = "Tags"
-url = "/tags/"
+url = "tags/"
 weight = 30
 
 [[menu.main]]
 identifier = "Help"
 name = "Help"
-url = "/help/"
+url = "help/"
 weight = 40
 
 [[menu.main]]
 identifier = "About Me"
 name = "About Me"
-url = "/about/"
+url = "about/"
 weight = 50
 
 [outputs]
