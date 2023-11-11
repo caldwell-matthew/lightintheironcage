@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Light in the Iron Cage'
 theme = 'PaperMod'
+canonifyURLs = true
 
 [params]
 env = "production"
@@ -12,7 +13,6 @@ ShowBreadCrumbs = true
 ShowToc = true
 TocOpen = false
 ShowPostNavLinks = true
-canonifyURLs = true
 
 [params.homeInfoParams]
 Title = "All my links"
