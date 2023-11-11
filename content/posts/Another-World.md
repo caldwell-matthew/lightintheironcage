@@ -7,7 +7,7 @@ tags = ['Quotes', 'Meaning']
 author = ["Matthew Caldwell"]
 
 [cover]
-image = "/img/space.jpg"
+image = "img/space.jpg"
 alt = "<alt text>"
 caption = "<text>"
 relative = false
