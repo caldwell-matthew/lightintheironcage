@@ -7,7 +7,7 @@ tags = ['Quotes', 'Love']
 author = ["Matthew Caldwell"]
 
 [cover]
-image = "https://github.com/caldwell-matthew/lightintheironcage/blob/master/static/img/space.jpg"
+image = "/img/space.jpg"
 alt = "<alt text>"
 caption = "<text>"
 relative = false
