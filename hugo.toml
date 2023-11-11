@@ -1,9 +1,8 @@
 baseURL = 'https://caldwell-matthew.github.io/lightintheironcage/'
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Light in the Iron Cage'
 theme = 'PaperMod'
-# canonifyURLs = true
-# relativeURLs = true
 
 [params]
 env = "production"
