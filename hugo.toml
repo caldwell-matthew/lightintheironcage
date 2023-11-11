@@ -12,6 +12,7 @@ ShowBreadCrumbs = true
 ShowToc = true
 TocOpen = false
 ShowPostNavLinks = true
+canonifyURLs = true
 
 [params.homeInfoParams]
 Title = "All my links"
