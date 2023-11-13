@@ -17,6 +17,7 @@ title = 'Help'
 - https://www.thegospelcoalition.org/
 - https://www.desiringgod.org/
 - https://www.challies.com/
+- https://www.cslewisinstitute.org/
 - https://www.ligonier.org/
 - https://www.gty.org/
 
