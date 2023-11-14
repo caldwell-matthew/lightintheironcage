@@ -13,6 +13,7 @@ ShowBreadCrumbs = true
 ShowToc = true
 TocOpen = false
 ShowPostNavLinks = true
+comments = true
 
 [params.homeInfoParams]
 Title = "All my links"

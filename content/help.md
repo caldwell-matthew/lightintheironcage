@@ -14,6 +14,7 @@ title = 'Help'
 - https://www.spurgeongems.org/
 - https://www.preceptaustin.org/
 - https://www.emmascrivener.net/
+- https://speaklife.org.uk/
 - https://www.thegospelcoalition.org/
 - https://www.desiringgod.org/
 - https://www.challies.com/
