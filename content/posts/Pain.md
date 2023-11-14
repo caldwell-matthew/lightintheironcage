@@ -3,7 +3,7 @@ title = 'Pain'
 date = 2023-10-29T01:46:15-04:00
 draft = false
 layout = 'single'
-tags = ['Quotes']
+tags = ['Quotes', 'Suffering']
 author = ["Matthew Caldwell"]
 
 [cover]

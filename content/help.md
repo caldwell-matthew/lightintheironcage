@@ -1,5 +1,6 @@
 +++
 title = 'Help'
+noComment = true
 +++
 ***
 > Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.” - **Matthew 11:28-30** 
@@ -24,7 +25,11 @@ title = 'Help'
 
 ## Good Books
 - https://www.esv.org/
-    > When the cares of my heart are many, your consolations cheer my soul. - **Psalm 94:19**
+    > When the cares of my heart are many, 
+    > 
+    > your consolations cheer my soul. 
+    > 
+    > -- **Psalm 94:19**
 
 - *Gentle and Lowly: The Heart of Christ for Sinners and Sufferers* (Dane C. Ortlund)
     > "That God is rich in mercy means that your regions of deepest shame and regret are not hotels through which divine mercy passes but homes in which divine mercy abides. It means the things about you that make you cringe most, make him hug hardest. It means his mercy is not calculating and cautious, like ours. It is unrestrained, flood-like, sweeping, magnanimous. It means our haunting shame is not a problem for him, but the very thing he loves most to work with. It means our sins do not cause his love to take a hit. Our sins cause his love to surge forward all the more. It means on that day when we stand before him, quietly, unhurriedly, we will weep with relief, shocked at how impoverished a view of his mercy-rich heart we had."- **Ortlund**
@@ -33,7 +38,17 @@ title = 'Help'
     > "Let me encourage you in His name to diligently search and solemnly test your spiritual state, for fear you should come short of the promised rest. This is what every wise man does, and what God Himself does with us all." - **Spurgeon**
 
 - *The Pilgrim's Progress* (John Bunyan)
-    > “This hill, though high, I covet to ascend; The difficulty will not me offend. For I perceive the way to life lies here. Come, pluck up, heart; let's neither faint nor fear. Better, though difficult, the right way to go, Than wrong, though easy, where the end is woe.” - **Bunyan**
+    > “This hill, though high, I covet to ascend; 
+    > 
+    > The difficulty will not me offend. 
+    > 
+    > For I perceive the way to life lies here. 
+    > 
+    > Come, pluck up, heart; let's neither faint nor fear. 
+    > 
+    > Better, though difficult, the right way to go, 
+    > 
+    > Than wrong, though easy, where the end is woe.” - **Bunyan**
 
 - *The Lord of the Rings* (J.R.R. Tolkien)
     > "End? No, the journey doesn't end here. Death is just another path, one that we all must take. The grey rain-curtain of this world rolls back, and all turns to silver glass, and then you see it." - **Tolkien**

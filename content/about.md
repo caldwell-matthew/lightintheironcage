@@ -1,9 +1,10 @@
 +++
 title = 'About Me'
+noComment = true
 +++
 
 > Hi. I'm Matthew. 
 
 ---
 
-Thoughts.
+Hi. I'm Matthew. 

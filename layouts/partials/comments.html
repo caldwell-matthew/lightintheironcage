@@ -1,12 +1,14 @@
 {{- /* Comments area start */ -}}
 {{- /* to add comments read => https://gohugo.io/content-management/comments/ */ -}}
-<div id="replybox"></div>
-<body>
-    <script>
-    window.replybox = {
-        site: 'qGnVjb4nr9', 
-    };
-    </script>
-    <script src="https://cdn.getreplybox.com/js/embed.js" defer></script>
-</body>
+{{ if not .Params.noComment }}
+    <div id="replybox"></div>
+    <body>
+        <script>
+        window.replybox = {
+            site: 'qGnVjb4nr9', 
+        };
+        </script>
+        <script src="https://cdn.getreplybox.com/js/embed.js" defer></script>
+    </body>
+{{ end }}
 {{- /* Comments area end */ -}}
