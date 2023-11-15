@@ -7,9 +7,9 @@ tags = ['Quotes', 'Suffering']
 author = ["Matthew Caldwell"]
 
 [cover]
-image = "img/space.jpg"
-alt = "<alt text>"
-caption = "<text>"
+image = "img/melancholy.jpg"
+alt = "https://commons.wikimedia.org/w/index.php?curid=38018045"
+caption = "[*Melancholy* - **Edvard Munch**](https://commons.wikimedia.org/w/index.php?curid=38018045)"
 relative = false
 +++
 
@@ -18,4 +18,5 @@ relative = false
 
 ---
 
-Thoughts.
+It is a fact that life is full of suffering and pain. Both the righteous and the sinful will experience trials in this life and very often there may even be no apparent reason for it. Suffering is not always the direct result of sin, as seen in the case of Job, but it can often be a means for God to increase our faith or get our attention. May we follow Spurgeon's example and learn to 'kiss the wave' that drives us to rely on Christ's love all the more.  
+-- Matthew

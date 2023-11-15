@@ -8,6 +8,11 @@ Add about me.
 
 ---
 
+## Statement of Faith
+Add statement of faith.
+
+---
+
 ## Legal Info  
 
 [Terms and Conditions]( {{< relref "legal/tos.md" >}})  

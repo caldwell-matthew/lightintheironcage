@@ -27,7 +27,7 @@ relative = false
 > With who He claimed to be  
 > The choices are one of three:  
 > Liar, fool, or Messiah!  
-> -- [**Theocracy**, *Liar, Fool, Or Messiah*](https://open.spotify.com/track/6EzVRnzx6WdFbZu83yqPzH)
+> -- [**Theocracy** - *Liar, Fool, Or Messiah*](https://open.spotify.com/track/6EzVRnzx6WdFbZu83yqPzH)
 
 ---
 
@@ -35,3 +35,8 @@ relative = false
 > 
 > Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. He has not left that open to us. He did not intend to.”  
 > -- **C.S. Lewis, *Mere Christianity***
+
+---
+
+Each one of us will eventually have to answer Jesus' question: "But who do you say that I am?" All others' opinions of Christ ultimately do not matter. Who is He to you? Is He a liar? He claimed to be "the way and the truth." Is He insane? He spoke with reason, grace, and was a respected teacher. Is He God? He said, "I and the Father are one." You must choose. Everyone must have an opinion on the Man, Christ Jesus. You will either hate Him through indifference and unbelief, or you will find Him to be your merciful Lord and Savior. There are no other options.  
+-- Matthew

@@ -3,7 +3,7 @@ title = 'Help'
 noComment = true
 +++
 
-***
+---
 > "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.”  
 > -- **Matthew 11:28-30** 
 
@@ -11,23 +11,31 @@ noComment = true
 - https://www.samhsa.gov/find-help/national-helpline
 - https://www.apa.org/topics/crisis-hotlines
 - https://mhanational.org/crisisresources
+- https://www.nami.org/home
 - https://www.emmascrivener.net/places-that-help/
+- https://www.ccef.org/
 
-## Biblical Articles/Sermons/Blogs/Resources
-- https://www.spurgeongems.org/
+## Biblical Resources
+### Study Tools
+- https://www.biblegateway.com/
 - https://www.preceptaustin.org/
+- https://www.blueletterbible.org/
+- https://www.gotquestions.org/
+- https://www.logos.com/
+
+### Sermons, Articles, and Blogs
+- https://www.spurgeongems.org/
+- https://www.cslewisinstitute.org/
 - https://www.emmascrivener.net/
 - https://speaklife.org.uk/
 - https://www.thegospelcoalition.org/
 - https://www.desiringgod.org/
 - https://www.challies.com/
-- https://www.cslewisinstitute.org/
 - https://www.ligonier.org/
 - https://www.gty.org/
-- https://www.blueletterbible.org/
 
 ## Good Books
-### [*The Holy Bible*](https://www.esv.org/)
+### [*The Holy Bible (ESV)*](https://www.esv.org/)
 > When the cares of my heart are many, your consolations cheer my soul.  
 > -- **Psalm 94:19**
 
