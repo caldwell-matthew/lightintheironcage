@@ -25,9 +25,7 @@ noComment = true
 
 ## Good Books
 - https://www.esv.org/
-    > When the cares of my heart are many, 
-    > 
-    > your consolations cheer my soul. 
+    > When the cares of my heart are many, your consolations cheer my soul. 
     > 
     > -- **Psalm 94:19**
 
