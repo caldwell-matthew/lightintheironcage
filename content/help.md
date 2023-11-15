@@ -19,6 +19,7 @@ noComment = true
 ### Study Tools
 - https://www.biblegateway.com/
 - https://www.preceptaustin.org/
+- https://www.crossway.org/
 - https://www.blueletterbible.org/
 - https://www.gotquestions.org/
 - https://www.logos.com/
