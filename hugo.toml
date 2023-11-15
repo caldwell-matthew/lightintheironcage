@@ -39,11 +39,6 @@ url = "https://www.linkedin.com/in/caldwell-matthew/"
 # name = "about"
 # url = "about/"
 
-[params.editPost]
-URL = "https://github.com/caldwell-matthew/lightintheironcage/tree/master/content"
-Text = "Suggest Changes"
-appendFilePath = true
-
 [[menu.main]]
 identifier = "Search"
 name = "Search"
@@ -69,8 +64,8 @@ url = "help/"
 weight = 40
 
 [[menu.main]]
-identifier = "About Me"
-name = "About Me"
+identifier = "About"
+name = "About"
 url = "about/"
 weight = 50
 
