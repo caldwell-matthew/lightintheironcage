@@ -17,6 +17,5 @@ relative = false
 
 ---
 
-Thoughts.
-
+Thoughts.  
 -- Matthew
