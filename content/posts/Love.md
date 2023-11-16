@@ -25,5 +25,5 @@ relative = false
 
 The temptation to lock one's heart away is a dark sin I am sadly far too familiar with. If you are hurt one too many times, in sin, you can give in to despair and resolve to never be hurt by or care about anyone or anything ever again. To despair is to turn oneself inward away from people and ultimately from God Himself. Depression itself is no sin, but our responses to it often become one; especially if it leads to despair and unbelief. 
 
-My friend, guard your heart. Trust in Christ and love Him. See One who loved you and died for you even in your sinful depths of despair and agony; whatever you may feel or have done. Be warned, my friend, as our Lord said: "He who is forgiven little, loves little." A man who loves nothing but himself and his own little world will certainly be miserable in it - both in this life, and the next.  
+My friend, guard your heart, but do not embalm it. Keep it from loving evil, but do not keep it from loving altogether. Trust in Christ and love Him. See One who loved you and died for you even in your sinful depths of despair and agony; whatever you may feel or have done. Be warned, my friend, as our Lord said: "He who is forgiven little, loves little." A man who loves nothing but himself and his own little world will certainly be miserable in it - both in this life, and the next.  
 -- Matthew
