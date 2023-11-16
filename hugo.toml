@@ -13,7 +13,7 @@ ShowBreadCrumbs = true
 ShowToc = true
 TocOpen = false
 ShowPostNavLinks = true
-comments = true
+disableThemeToggle = true
 defaultTheme = 'dark'
 
 [params.homeInfoParams]
