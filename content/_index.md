@@ -10,7 +10,7 @@
 > -- **1 John 1:9**
 
 > And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you. To him be the dominion forever and ever. Amen.  
-> -- **1 Peter 5:1-11**
+> -- **1 Peter 5:10-11**
 
 > I will restore to you the years that the swarming locust has eaten, the hopper, the destroyer, and the cutter, my great army, which I sent among you.  
 > -- **Joel 2:25**
