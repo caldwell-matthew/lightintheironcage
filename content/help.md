@@ -14,6 +14,7 @@ noComment = true
 - https://www.nami.org/home
 - https://www.emmascrivener.net/places-that-help/
 - https://www.ccef.org/
+- https://ocdandchristianity.com/
 
 ## Biblical Resources
 ### Study Tools
@@ -21,6 +22,7 @@ noComment = true
 - https://www.preceptaustin.org/
 - https://www.crossway.org/
 - https://www.blueletterbible.org/
+- https://www.bibleref.com/
 - https://www.gotquestions.org/
 - https://www.logos.com/
 
