@@ -19,6 +19,11 @@ noComment = true
 - https://ocdandchristianity.com/
 - https://accounseling.org/
 - https://wrestledfaith.wordpress.com/
+- https://scrupulosity.com/
+- https://ocdspecialists.com/
+- https://beautifulbetween.com/
+- https://calocd.com/
+- https://biblicalcounseling.com/
 
 ## Biblical Resources
 
@@ -46,10 +51,12 @@ noComment = true
 
 ## Good Books
 
-### [_The Holy Bible (ESV)_](https://www.esv.org/)
+### _The Holy Bible (ESV)_
 
 > When the cares of my heart are many, your consolations cheer my soul.  
 > -- **Psalm 94:19**
+>
+> [Reading Plans]({{< relref "/Bible-Plans.md" >}})
 
 ### _Gentle and Lowly: The Heart of Christ for Sinners and Sufferers_
 
@@ -62,6 +69,13 @@ noComment = true
 
 > "Let me encourage you in His name to diligently search and solemnly test your spiritual state, for fear you should come short of the promised rest. This is what every wise man does, and what God Himself does with us all."  
 > -- **Charles H. Spurgeon**
+
+### _Spurgeon's Sorrows_
+
+> "Many of us feel that if we were more true to Jesus we wouldn’t struggle this way. Others actually tell us earnestly that our salvation in Jesus is threatened and put into question. But just as a man with asthma or a woman born mute will likely remain this way even though they love Jesus, so our mental disorders and melancholy inclinations often remain with us too.
+>
+> Conversion to Jesus isn’t heaven, but its foretaste. This side of heaven, grace secures us but doesn’t cure us. "There are lines of weakness in the creature which even grace does not efface." Though substantial healing can come, Charles reminds us that often it waits till heaven to complete its full work."  
+> -- **Zack Eswine**
 
 ### _The Pilgrim's Progress_
 
