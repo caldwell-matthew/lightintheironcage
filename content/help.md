@@ -24,6 +24,7 @@ noComment = true
 - https://beautifulbetween.com/
 - https://calocd.com/
 - https://biblicalcounseling.com/
+- https://biblicalcounseling.com/resource-library/podcast-episodes/
 
 ## Biblical Resources
 
@@ -48,6 +49,7 @@ noComment = true
 - https://www.challies.com/
 - https://www.ligonier.org/
 - https://www.gty.org/
+- https://mereorthodoxy.com/
 
 ## Good Books
 
