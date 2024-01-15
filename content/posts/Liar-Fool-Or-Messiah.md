@@ -36,5 +36,9 @@ relative = false
 
 ---
 
-Each one of us will eventually have to answer Jesus' question - "But who do you say that I am?" All others' opinions of Christ ultimately do not matter in the slightest. Who is He to you? Is He a liar? He claimed to be "the way and the truth." Is He insane? Every word He spoke was seasoned with reason and grace, "No one ever spoke like this man!". Is He God? He said, "I and the Father are one." You must choose. Everyone must have an opinion on the Man, Christ Jesus. You will either hate Him through indifference and unbelief, or you will find Him to be your merciful Lord and Savior. There are no other options.  
+Each one of us will eventually have to answer Jesus' question - "But who do you say that I am?" All others' opinions of Christ ultimately do not matter in the slightest. Who is He to you? Is He a liar? He claimed to be "the way and the truth." Is He insane? Every word He spoke was seasoned with reason and grace, "No one ever spoke like this man!". Is He God? He said, "I and the Father are one." 
+
+Everyone must have an opinion on the man, Christ Jesus. You will either hate Him through indifference and unbelief, or you will find Him to be your merciful Lord and Savior. There is no other stream, and there are no other options. 
+
+You must choose.   
 -- Matthew

@@ -23,7 +23,7 @@ relative = false
 
 ---
 
-The temptation to lock one's heart away is a dark sin of which I am sadly far too familiar. If you are lost within inexpressible pain, it is terrifyingly easily give in to despair and resolve to never be hurt by or care about anyone or anything ever again. To completely despair is to turn oneself inward - away from people and ultimately from God Himself. Those like myself who have been scarred by the demon of despair will know exactly what I mean; and I desperately hope you do not.
+Locking one's heart away is a dark sin of which I am sadly far too familiar with. If you are lost within inexpressible pain, it is terrifyingly easily give in to despair and resolve to never be hurt by or care about anyone or anything ever again. To completely despair is to turn oneself inward - away from people and ultimately from God Himself. Those like myself who have been scarred by the demon of despair will know exactly what I mean; and I desperately hope you do not.
 
 Now please don't misunderstand: sadness, melancholy, and depression are not sins in of themselves. Even our Savior Himself was described as "a man of sorrows". However, our responses to them often become sinful - especially if they lead to deep despair and unbelief.
 
