@@ -1,65 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Light in the Iron Cage</title>
     <link>https://caldwell-matthew.github.io/lightintheironcage/tags/</link>
     <description>Recent content in Tags on Light in the Iron Cage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 02:20:57 -0500</lastBuildDate><atom:link href="https://caldwell-matthew.github.io/lightintheironcage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 02:20:57 -0500</lastBuildDate>
+    <atom:link href="https://caldwell-matthew.github.io/lightintheironcage/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/tags/music/</link>
       <pubDate>Tue, 14 Nov 2023 02:20:57 -0500</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/tags/music/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Quotes</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/tags/quotes/</link>
       <pubDate>Tue, 14 Nov 2023 02:20:57 -0500</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/tags/quotes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Suffering</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/tags/suffering/</link>
       <pubDate>Sun, 29 Oct 2023 01:46:15 -0400</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/tags/suffering/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Love</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/tags/love/</link>
       <pubDate>Sun, 29 Oct 2023 01:38:02 -0400</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/tags/love/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Heaven</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/tags/heaven/</link>
       <pubDate>Sat, 28 Oct 2023 04:47:26 -0400</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/tags/heaven/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Meaning</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/tags/meaning/</link>
       <pubDate>Sat, 28 Oct 2023 04:47:26 -0400</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/tags/meaning/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

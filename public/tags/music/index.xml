@@ -1,32 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Light in the Iron Cage</title>
     <link>https://caldwell-matthew.github.io/lightintheironcage/tags/music/</link>
     <description>Recent content in Music on Light in the Iron Cage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 02:20:57 -0500</lastBuildDate><atom:link href="https://caldwell-matthew.github.io/lightintheironcage/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 02:20:57 -0500</lastBuildDate>
+    <atom:link href="https://caldwell-matthew.github.io/lightintheironcage/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Liar Fool or Messiah</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/posts/liar-fool-or-messiah/</link>
       <pubDate>Tue, 14 Nov 2023 02:20:57 -0500</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/posts/liar-fool-or-messiah/</guid>
-      <description>Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”
-&amp;ndash; John 8:58
-Have no illusions
-The only conclusions
-We&amp;rsquo;re left to draw
-When we have heard it all
-The arguments rise and fall
-It’s either liar, fool, or Messiah
-Not just the good moral teacher
-Some say patronizingly
-With who He claimed to be
-The choices are one of three:
-Liar, fool, or Messiah!</description>
+      <description>Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”&#xA;&amp;ndash; John 8:58&#xA;Have no illusions&#xA;The only conclusions&#xA;We&amp;rsquo;re left to draw&#xA;When we have heard it all&#xA;The arguments rise and fall&#xA;It’s either liar, fool, or Messiah&#xA;Not just the good moral teacher&#xA;Some say patronizingly&#xA;With who He claimed to be&#xA;The choices are one of three:&#xA;Liar, fool, or Messiah!</description>
     </item>
-    
   </channel>
 </rss>

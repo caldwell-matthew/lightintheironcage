@@ -1,34 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Legals on Light in the Iron Cage</title>
     <link>https://caldwell-matthew.github.io/lightintheironcage/legal/</link>
     <description>Recent content in Legals on Light in the Iron Cage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://caldwell-matthew.github.io/lightintheironcage/legal/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://caldwell-matthew.github.io/lightintheironcage/legal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/legal/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/legal/privacy/</guid>
-      <description>Last updated: November 15, 2023
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.</description>
+      <description>Last updated: November 15, 2023&#xA;This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.&#xA;We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.</description>
     </item>
-    
     <item>
       <title>Terms and Conditions</title>
       <link>https://caldwell-matthew.github.io/lightintheironcage/legal/tos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://caldwell-matthew.github.io/lightintheironcage/legal/tos/</guid>
-      <description>Last updated: November 15, 2023
-Please read these terms and conditions carefully before using Our Service.
-Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
-Definitions For the purposes of these Terms and Conditions:
-Affiliate means an entity that controls, is controlled by or is under common control with a party, where &amp;ldquo;control&amp;rdquo; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</description>
+      <description>Last updated: November 15, 2023&#xA;Please read these terms and conditions carefully before using Our Service.&#xA;Interpretation and Definitions Interpretation The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.&#xA;Definitions For the purposes of these Terms and Conditions:&#xA;Affiliate means an entity that controls, is controlled by or is under common control with a party, where &amp;ldquo;control&amp;rdquo; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</description>
     </item>
-    
   </channel>
 </rss>

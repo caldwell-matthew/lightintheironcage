@@ -25,6 +25,7 @@ noComment = true
 - https://calocd.com/
 - https://biblicalcounseling.com/
 - https://biblicalcounseling.com/resource-library/podcast-episodes/
+- https://graceaboundinginocd.com/
 
 ## Biblical Resources
 
