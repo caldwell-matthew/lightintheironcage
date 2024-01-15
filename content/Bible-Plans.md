@@ -7,20 +7,20 @@ ShowReadingTime = false
 
 ## [Blue Letter Bible - 1 Year Chronological](https://www.blueletterbible.org/assets-v3/pdf/dbrp/1Yr_ChronologicalPlan.pdf)
 
-1. Genesis 1-3
-2. Genesis 4-7
-3. Genesis 8-11
-4. Job 1-5
-5. Job 6-9
-6. Job 10-13
-7. Job 14-16
-8. Job 17-20
-9. Job 21-23
-10. Job 24-28
-11. Job 29-31
-12. Job 32-34
-13. Job 35-37
-14. Job 38-39
+[x] 1. Genesis 1-3
+[x] 2. Genesis 4-7
+[x] 3. Genesis 8-11
+[x] 4. Job 1-5
+[x] 5. Job 6-9
+[x] 6. Job 10-13
+[x] 7. Job 14-16
+[x] 8. Job 17-20
+[x] 9. Job 21-23
+[x] 10. Job 24-28
+[x] 11. Job 29-31
+[x] 12. Job 32-34
+[x] 13. Job 35-37
+[x] 14. Job 38-39
 15. Job 40-42
 16. Genesis 12-15
 17. Genesis 16-18
