@@ -3,7 +3,7 @@ title = 'Liar Fool or Messiah'
 date = 2023-11-14T02:20:57-05:00
 draft = false
 layout = 'single'
-tags = ['Quotes', 'Music']
+tags = ['Quotes', 'Music', 'Apologetics']
 author = ["Matthew Caldwell"]
 
 [cover]

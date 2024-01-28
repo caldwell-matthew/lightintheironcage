@@ -1,9 +1,9 @@
 +++
 title = 'Scrupulosity'
 date = 2024-01-07T16:59:55-08:00
-draft = true
+draft = false
 layout = 'single'
-tags = ['Quotes', 'Tags']
+tags = ['Quotes', 'Mental Health', 'Suffering', 'OCD']
 author = ["Matthew Caldwell"]
 
 [cover]
@@ -39,18 +39,18 @@ In your sins and sorrows, God knows not just what is happening to you, but every
 > "Search me, O God, and know my heart! Try me and know my thoughts! And see if there be any grievous way in me, and lead me in the way everlasting!"  
 > -- Psalm 139:23-24
 
-OCD continually asks tormenting questions: "Did I sin by __?" "Did I __?" "Could have I by accident __?" "What if __?" "But __" And so on and so forth. Obsessive thoughts invade like rebel forces into our mind and we compulsively try to drive them out. We introspect, dissect, replay, and analyze our past and present actions like a fervent scientist in a laboratory. We wash our hands till we bleed. We check and re-check. We worry about our sin. We worry about our temptations. We worry about falling away from Christ. We worry about heaven. We worry about hell. We worry about if or if not we sinned in a certain way. We worry if we are deceived. We worry if we have OCD at all. We worry if we are even saved or know God. We worry about past situations, actions, motivations, and everything in-between. We are spiritually pantaphobic. We kill ourselves over and over again trying to feel a sense of "certainty”. Our mind continuously replays, repeats, and skips along a record of unfounded fears. Rejoice and be glad, dear reader, if you know nothing of what I describe.
+OCD continually asks tormenting questions: "Did I sin by __?" "Did I __?" "Could have I by accident __?" "What if __?" "But __" And so on and so forth. Obsessive thoughts invade like rebel forces into our mind and we compulsively try to drive them out. We introspect, dissect, replay, and analyze our past and present actions like a fervent scientist in a laboratory. We wash our hands till we bleed. We check and re-check. We worry about our sin. We worry about our temptations. We worry about falling away from Christ. We worry about heaven. We worry about hell. We worry about if or if not we sinned in a certain way. We worry if we are deceived. We worry if we have OCD at all. We worry if we are even saved or know God. We worry about past situations, actions, motivations, and everything in-between. We are spiritually pantaphobic. We kill ourselves over and over again trying to feel a sense of "certainty”. Our mind replays, repeats, and skips along a record of unfounded fears. Rejoice and be glad, dear reader, if you know nothing of what I describe.
 
-So what are we to do? Keep looking inward at ourselves? No. To stop morbid introspection and sin we must look out of ourselves to Christ. David in his distress glanced at his own soul, but ultimately appealed to God’s omniscient view of his soul, not trusting even in his own assessment of himself - “Try me and know me!” Peter likewise said, “Lord, You know all things. You know that I love You.” Let us not be like Peter who once proudly boasted he would never fall, but let us be like Peter who was humbled by his denials and looked to Christ alone. If you are stuck looking inward, the solution is to start looking outward at God.
-
-It is a fact that life is full of trial, suffering, and pain. Both the righteous and the sinful will experience it. Very often even without an apparent reason. Suffering is not always the direct result of sin: as seen in the case of Job or with mental illnesses. What it can be, however, is a means for God to increase our reliance on Him. Sadly, we often do the opposite. 
+So what are we to do? Keep looking inward at ourselves? No. To stop sinful introspection we must look out of ourselves to Christ. David in his distress glanced at his own soul, but ultimately appealed to God’s omniscient view of his soul, not trusting in his own assessment of himself. “Try me and know me!”, David cries. Peter likewise said, “Lord, You know all things. You know that I love You.” Let us not be like Peter who once proudly boasted he would never fall, but let us be like Peter who was humbled by his denials and looked to Christ alone. If you are stuck looking inward, the solution is to start looking outward at God. He alone knows our sinful hearts.
 
 > "I have learned to kiss the wave that throws me against the Rock of Ages."  
 > -- Charles Spurgeon
 
+It is a fact that life is full of trial, suffering, and pain. Both the righteous and the sinful will experience it. Very often even without an apparent reason. Suffering is not always the direct result of sin: as seen in the case of Job or with mental illnesses. What it can be, however, is a means for God to increase our reliance on Him. Paul had his thorn in the flesh and God desired that he become more reliant on Him. Sadly, we often do the opposite and respond in sinful ways to suffering.
+
 > “We can ignore even pleasure. But pain insists upon being attended to. God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains: it is his megaphone to rouse a deaf world.”  
 > -- **C.S. Lewis, _The Problem of Pain_**
 
-Let us feeble folk meditate on the wisdom of Spurgeon and Lewis. In faith, I pray that the Father will teach us all to "kiss the wave" that drives us by His Spirit to the embrace of Christ in the midst of sin and suffering. 
+Let us feeble folk meditate on the wisdom of Spurgeon and Lewis. In faith, I pray that the Father will teach us all to "kiss the wave" that drives us by His Spirit to the embrace of Christ come what may. 
 
 -- Matthew
