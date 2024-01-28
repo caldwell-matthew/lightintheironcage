@@ -1,7 +1,7 @@
 +++
 title = 'Ozymandias'
 date = 2024-01-27T16:51:46-08:00
-draft = true
+draft = false
 layout = 'single'
 tags = ['Quotes', 'Death', 'Literature']
 author = ["Matthew Caldwell"]
