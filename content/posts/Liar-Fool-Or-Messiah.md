@@ -40,5 +40,6 @@ Each one of us will eventually have to answer Jesus' question - "But who do you 
 
 Everyone must have an opinion on the man, Christ Jesus. You will either hate Him through indifference and unbelief, or you will find Him to be your merciful Lord and Savior. There is no other stream, and there are no other options. 
 
-You must choose.   
+You must choose.  
+
 -- Matthew

@@ -3,7 +3,7 @@ title = 'Love'
 date = 2023-10-29T01:38:02-04:00
 draft = false
 layout = 'single'
-tags = ['Quotes', 'Love']
+tags = ['Quotes', 'Love', 'Literature']
 author = ["Matthew Caldwell"]
 
 [cover]
@@ -30,4 +30,5 @@ Now please don't misunderstand: sadness, melancholy, and depression are not sins
 Friend, guard your heart, but do not embalm it. Keep it from loving evil, but do not keep it from loving altogether and only yourself. Trust in Christ and love Him. See One who gently loved you with an everlasting love and died for you even in your depths of agony and sinful despair; regardless of what you may feel or have done. Reason with Him, talk with Him. He wants you. "Come now, let us reason together, says the Lord".
 
 I long to be a kind voice to you who despair, but I also must urgently exhort you as one whom God delivered from such a state - do not abandon hope. Do not delay in running to Christ. As it is written: "Today, if you hear his voice, do not harden your hearts as in the rebellion." Be warned, my friend, as our Lord also said that "He who is forgiven little, loves little." A man who loves nothing but himself and his own little world will certainly be miserable in it - both in this life, and the next.  
+
 -- Matthew
