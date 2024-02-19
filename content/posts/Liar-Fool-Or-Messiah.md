@@ -13,10 +13,10 @@ caption = "[*Theocracy Mosaic Album Art* - **Steven Howard**](https://www.steven
 relative = false
 +++
 
-> Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”  
+> "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”"  
 > -- **John 8:58**
 
-> Have no illusions  
+> "Have no illusions  
 > The only conclusions  
 > We're left to draw  
 > When we have heard it all  
@@ -26,7 +26,7 @@ relative = false
 > Some say patronizingly  
 > With who He claimed to be  
 > The choices are one of three:  
-> Liar, fool, or Messiah!  
+> Liar, fool, or Messiah!"  
 > -- [**Theocracy** - _Liar, Fool, Or Messiah_](https://open.spotify.com/track/6EzVRnzx6WdFbZu83yqPzH)
 
 > “I am trying here to prevent anyone saying the really foolish thing that people often say about Him: I’m ready to accept Jesus as a great moral teacher, but I don’t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on the level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice.
@@ -38,8 +38,5 @@ relative = false
 
 Each one of us will eventually have to answer Jesus' question - "But who do you say that I am?" All others' opinions of Christ ultimately do not matter in the slightest. Who is He to you? Is He a liar? He claimed to be "the way and the truth." Is He insane? Every word He spoke was seasoned with reason and grace, "No one ever spoke like this man!". Is He God? He said, "I and the Father are one." 
 
-Everyone must have an opinion on the man, Christ Jesus. You will either hate Him through indifference and unbelief, or you will find Him to be your merciful Lord and Savior. There is no other stream, and there are no other options. 
-
+Everyone must have an opinion on the man, Christ Jesus.  
 You must choose.  
-
--- Matthew

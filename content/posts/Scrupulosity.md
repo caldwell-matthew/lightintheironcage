@@ -15,7 +15,7 @@ relative = false
 
 > "Worries and anxieties of many kinds assail us. ... Imaginary terrors, frightful memories, presumed tragedies that never come to pass, can harass our thoughts like a tree outside our window, which we mistook for a stalker peeking in.  
 >
-> Yet, Charles [Spurgeon] reminds us that the anguish itself, even when caused by imaginary woes, remains real. 'Some people are excessively nervous: they are afraid the skies will fall or the earth will crack.' Of course such thoughts are irrational. '_But the agony caused therby is very real_' (emphasis mine).  
+> Yet, Charles [Spurgeon] reminds us that the anguish itself, even when caused by imaginary woes, remains real. 'Some people are excessively nervous: they are afraid the skies will fall or the earth will crack.' Of course such thoughts are irrational. _**But the agony caused therby is very real**_" (emphasis mine).  
 > -- **Zack Eswine, _Spurgeon's Sorrows_**
 
 ---
@@ -52,5 +52,3 @@ It is a fact that life is full of trial, suffering, and pain. Both the righteous
 > -- **C.S. Lewis, _The Problem of Pain_**
 
 Let us feeble folk meditate on the wisdom of Spurgeon and Lewis. In faith, I pray that the Father will teach us all to "kiss the wave" that drives us by His Spirit to the embrace of Christ come what may. 
-
--- Matthew

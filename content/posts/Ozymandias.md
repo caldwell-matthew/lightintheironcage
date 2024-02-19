@@ -13,10 +13,10 @@ caption = "[*Temple of Ramses II* - **Britannica**](https://www.britannica.com/b
 relative = false
 +++
 
-> All go to one place. All are from the dust, and to dust all return.  
+> "All go to one place. All are from the dust, and to dust all return."  
 > -- **Ecclesiastes 3:20**
 
-> I met a traveller from an antique land,  
+> "I met a traveller from an antique land,  
 > Who said—“Two vast and trunkless legs of stone  
 > Stand in the desert. . . . Near them, on the sand,  
 > Half sunk a shattered visage lies, whose frown,  
@@ -29,11 +29,9 @@ relative = false
 > Look on my Works, ye Mighty, and despair!   
 > Nothing beside remains. Round the decay  
 > Of that colossal Wreck, boundless and bare  
-> The lone and level sands stretch far away.”—  
+> The lone and level sands stretch far away.”"—  
 > -- **Percy Shelley, "Ozymandias", _Shelley’s Poetry and Prose_**
 
 ---
 
 Memento Deo et memento mori. 
-
--- Matthew
