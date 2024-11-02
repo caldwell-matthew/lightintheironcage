@@ -36,7 +36,7 @@ relative = false
 
 ---
 
-Each one of us will eventually have to answer Jesus' question - "But who do you say that I am?" All others' opinions of Christ ultimately do not matter in the slightest. Who is He to you? Is He a liar? He claimed to be "the way and the truth." Is He insane? Every word He spoke was seasoned with reason and grace, "No one ever spoke like this man!". Is He God? He said, "I and the Father are one." 
+Each one of us will eventually have to answer Jesus' question - "But who do you say that I am?" All others' opinions of Christ ultimately do not matter in the slightest. Who is He to you? Is He a liar? He claimed to be "the way and the truth." Is He insane? Every word He spoke was seasoned with reason and grace, "No one ever spoke like this man!". Is He God? He said, "I and the Father are one."
 
 Everyone must have an opinion on the man, Christ Jesus.  
-You must choose.  
+You must choose.

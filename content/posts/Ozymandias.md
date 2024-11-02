@@ -26,7 +26,7 @@ relative = false
 > The hand that mocked them, and the heart that fed;  
 > And on the pedestal, these words appear:  
 > My name is Ozymandias, King of Kings;  
-> Look on my Works, ye Mighty, and despair!   
+> Look on my Works, ye Mighty, and despair!  
 > Nothing beside remains. Round the decay  
 > Of that colossal Wreck, boundless and bare  
 > The lone and level sands stretch far away.”"—  
@@ -34,4 +34,4 @@ relative = false
 
 ---
 
-Memento Deo et memento mori. 
+Memento Deo et memento mori

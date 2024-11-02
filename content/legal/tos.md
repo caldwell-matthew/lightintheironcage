@@ -17,28 +17,19 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
+- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
+- **Country** refers to: California, United States
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Light in the Iron Cage.
 
-- __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-- __Country__ refers to: California,  United States
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Light in the Iron Cage.
+- **Service** refers to the Website.
 
-- __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
-
-
-
-
-
-
-
-- __Service__ refers to the Website.
-
-
-- __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
-- __Third-party Social Media Service__ means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- __Website__ refers to Light in the Iron Cage, accessible from [https://github.com/caldwell-matthew/lightintheironcage](https://github.com/caldwell-matthew/lightintheironcage)
-- __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
+- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+- **Website** refers to Light in the Iron Cage, accessible from [https://github.com/caldwell-matthew/lightintheironcage](https://github.com/caldwell-matthew/lightintheironcage)
+- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 # Acknowledgment
 
@@ -48,29 +39,9 @@ Your access to and use of the Service is conditioned on Your acceptance of and c
 
 By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
-
 You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
 
-
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Links to Other Websites
 
@@ -85,7 +56,6 @@ We strongly advise You to read the terms and conditions and privacy policies of 
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
 
 Upon termination, Your right to use the Service will cease immediately.
-
 
 # Limitation of Liability
 
@@ -111,19 +81,13 @@ The laws of the Country, excluding its conflicts of law rules, shall govern this
 
 If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
 
-
 # For European Union (EU) Users
 
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
 
-
-
-
-
 # United States Legal Compliance
 
 You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-
 
 # Severability and Waiver
 
@@ -149,6 +113,5 @@ By continuing to access or use Our Service after those revisions become effectiv
 # Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us:
-
 
 - By email: caldwell.j.matthew@gmail.com

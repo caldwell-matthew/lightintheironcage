@@ -28,6 +28,6 @@ relative = false
 
 ---
 
-May we all be wise to remember that this world is not our home for those of us who love Christ. We live in the world now, but are not of it. This earth and everything in it is but a blurry reflection of what real life is supposed to be. Once we behold our Savior Jesus, we will fully understand. We will see Him as He is, and everything will immediately make sense on that glorious day. 
+May we all be wise to remember that this world is not our home for those of us who love Christ. We live in the world now, but are not of it. This earth and everything in it is but a blurry reflection of what real life is supposed to be. Once we behold our Savior Jesus, we will fully understand. We will see Him as He is, and everything will immediately make sense on that glorious day.
 
-The sky will be as blue and bright as it was meant to be. All of creation itself will sing in harmony. We will all laugh wholeheartedly with our Creator and eat and drink without worry. We will be able to live and love as we were designed to be without the hindrances of sin and sorrow. Let us all hope in God and press on as pilgrims in this present land, eagerly anticipating the day we meet our great Friend face to face.  
+The sky will be as blue and bright as it was meant to be. All of creation itself will sing in harmony. We will all laugh wholeheartedly with our Creator and eat and drink without worry. We will be able to live and love as we were designed to be without the hindrances of sin and sorrow. Let us all hope in God and press on as pilgrims in this present land, eagerly anticipating the day we meet our great Friend face to face.
