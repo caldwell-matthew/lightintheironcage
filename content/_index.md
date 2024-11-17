@@ -27,15 +27,9 @@ I pray to my Father that through His Holy Spirit, He might use this humble blog 
 
 This blog is broken into three main types of posts: The Pilgrim's Log (living the Christian life), The Library (literature/books), and The Ensemble (music). Take a look around!
 {{< cards cols="1" >}}
-  {{< card link="/posts/the-pilgrims-log/" title="The Pilgrims Log" icon="book-open" >}}
-	{{< card link="/posts/the-library/" title="The Library" icon="book-open" >}}
-	{{< card link="/posts/the-ensemble/" title="The Ensemble" icon="book-open" >}}
-{{< /cards >}}
-
-If you need help or information, check out Help or About.
-{{< cards cols="2" >}}
-  {{< card link="/help" title="I Need Help" icon="book-open" >}}
-  {{< card link="/about/about" title="About" icon="book-open" >}}
+  {{< card link="posts/the-pilgrims-log" title="The Pilgrims Log" icon="book-open" >}}
+	{{< card link="posts/the-library" title="The Library" icon="book-open" >}}
+	{{< card link="posts/the-ensemble" title="The Ensemble" icon="book-open" >}}
 {{< /cards >}}
 
 {{< cards cols="2" >}}
