@@ -6,8 +6,8 @@ type: about
 ## Personal Info
 
 {{< cards >}}
-  {{< card link="about/statement-of-faith" title="Statement of Faith" icon="book-open" >}}
-  {{< card link="about/who-am-i" title="Who am I?" icon="user" >}}
+  {{< card link="statement-of-faith" title="Statement of Faith" icon="book-open" >}}
+  {{< card link="who-am-i" title="Who am I?" icon="user" >}}
 {{< /cards >}}
 
 ## Site Info

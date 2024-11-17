@@ -33,7 +33,7 @@ Since being saved, I have just been learning how to live in light of God's love 
 > -- C.S. Lewis, Mere Christianity
 
 ### What I Do
-With this goal in mind, I want to work and play for the glory of God. As for work, I currently am a software developer since I obtained my bachelors in computer science, but it is not really a passion of mine. It mainly pays the bills and is fun (at times) to problem solve and code stuff. This blog is one way I want to use this educational background of mine to get my thoughts on paper to potentially help other people know more about God and how to walk through life with Him through suffering and splendor. I need to preach truth to myself daily! You can read all about my thoughts on the Christian life and meaning in [The Pilgrim's Log](/posts/the-pilgrims-log/).
+With this goal in mind, I want to work and play for the glory of God. As for work, I currently am a software developer since I obtained my bachelors in computer science, but it is not really a passion of mine. It mainly pays the bills and is fun (at times) to problem solve and code stuff. This blog is one way I want to use this educational background of mine to get my thoughts on paper to potentially help other people know more about God and how to walk through life with Him through suffering and splendor. I need to preach truth to myself daily! You can read all about my thoughts on the Christian life and meaning in [The Pilgrim's Log](/lightintheironcage/posts/the-pilgrims-log/).
 
 As for play, I deeply love music and books! They are precious gifts from the Father.
 
