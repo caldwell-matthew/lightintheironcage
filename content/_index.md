@@ -34,8 +34,8 @@ This blog is broken into three main types of posts: The Pilgrim's Log (living th
 
 If you need help or information, check out Help or About.
 {{< cards cols="2" >}}
-  {{< card link="/help/" title="I Need Help" icon="book-open" >}}
-  {{< card link="/about/about/" title="About" icon="book-open" >}}
+  {{< card link="../help" title="I Need Help" icon="book-open" >}}
+  {{< card link="../about/about/" title="About" icon="book-open" >}}
 {{< /cards >}}
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
