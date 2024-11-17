@@ -15,7 +15,7 @@ I was a professing Christian since 2013, but fell away into deep apostasy during
 I did not find God, He chose and found me (Jeremiah 31:3, Luke 15:20, John 6:44, 15:16, Romans 10:20, Ephesians 2:17, 1 John 4:10). If you want to hear the full story, read my baptism testimony of His faithfulness to me.
 
 {{< cards cols="1" >}}
-  {{< card link="../baptism-testimony" title="Baptism Testimony" icon="book-open" >}}
+  {{< card link="baptism-testimony" title="Baptism Testimony" icon="book-open" >}}
 {{< /cards >}}
 
 My goal in life is God Himself; to love and be loved by Him. I want everything and everything I do in life to go towards that.
