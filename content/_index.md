@@ -32,6 +32,7 @@ This blog is broken into three main types of posts: The Pilgrim's Log (living th
 	{{< card link="posts/the-ensemble" title="The Ensemble" icon="book-open" >}}
 {{< /cards >}}
 
+If you need help or information, see below.
 {{< cards cols="2" >}}
   {{< card link="help" title="I Need Help" icon="book-open" >}}
   {{< card link="about/about" title="About" icon="book-open" >}}
