@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: Light in the Iron Cage
+baseURL: https://caldwell-matthew.github.io/lightintheironcage/
 
 # import hextra as module
 module:
@@ -36,7 +37,7 @@ menu:
         type: search
 
 params:
-  baseURL: https://caldwell-matthew.github.io/lightintheironcage/
+  # baseURL: https://caldwell-matthew.github.io/lightintheironcage/
   
   navbar:
     displayTitle: true

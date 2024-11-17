@@ -38,4 +38,39 @@ If you need help or information, check out Help or About.
   {{< card link="/about/about" title="About" icon="book-open" >}}
 {{< /cards >}}
 
+{{< cards cols="2" >}}
+  {{< card link="help" title="I Need Help" icon="book-open" >}}
+  {{< card link="about/about" title="About" icon="book-open" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link={{< relref "help >}} title="I Need Help" icon="book-open" >}}
+  {{< card link={{< relref "about/about >}} title="About" icon="book-open" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link={{< relURL "help >}} title="I Need Help" icon="book-open" >}}
+  {{< card link={{< relURL "about/about >}} title="About" icon="book-open" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link={{< absURL "help >}} title="I Need Help" icon="book-open" >}}
+  {{< card link={{< absURL "about/about >}} title="About" icon="book-open" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link={{< relref "/help >}} title="I Need Help" icon="book-open" >}}
+  {{< card link={{< relref "/about/about >}} title="About" icon="book-open" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link={{< relURL "/help >}} title="I Need Help" icon="book-open" >}}
+  {{< card link={{< relURL "/about/about >}} title="About" icon="book-open" >}}
+{{< /cards >}}
+
+{{< cards cols="2" >}}
+  {{< card link={{< absURL "/help >}} title="I Need Help" icon="book-open" >}}
+  {{< card link={{< absURL "/about/about >}} title="About" icon="book-open" >}}
+{{< /cards >}}
+
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
