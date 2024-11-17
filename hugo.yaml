@@ -37,7 +37,8 @@ menu:
 
 params:
   baseURL: https://caldwell-matthew.github.io/lightintheironcage/
-
+  relativeURLs: true
+  
   navbar:
     displayTitle: true
     displayLogo: false
