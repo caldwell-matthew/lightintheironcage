@@ -59,11 +59,6 @@ If you need help or information, check out Help or About.
 {{< /cards >}}
 
 {{< cards cols="2" >}}
-  {{< card link={{< relref "/help >}} title="I Need Help" icon="book-open" >}}
-  {{< card link={{< relref "/about/about >}} title="About" icon="book-open" >}}
-{{< /cards >}}
-
-{{< cards cols="2" >}}
   {{< card link={{< relURL "/help >}} title="I Need Help" icon="book-open" >}}
   {{< card link={{< relURL "/about/about >}} title="About" icon="book-open" >}}
 {{< /cards >}}
