@@ -6,8 +6,8 @@ I pray to my Father that through His Holy Spirit, He might use this humble blog 
 ## Site Map
 This blog is broken into three main types of posts:
 - [The Pilgrim's Log](/content/posts/the-pilgrims-log/); where I talk about living the Christian life.
-- [The Ensemble](/content/posts/the-ensemble/); where I talk about literature and books.
-- [The Library](/content/posts/the-library); where I talk about music.
+- [The Library](/content/posts/the-library); where I talk about literature and books.
+- [The Ensemble](/content/posts/the-ensemble/); where I talk about music.
 
 ## Local Development
 
