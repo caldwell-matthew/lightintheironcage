@@ -20,13 +20,13 @@ markup:
 menu:
   main:
     - name: Posts
-      pageRef: /posts/
+      pageRef: /posts
       weight: 1
     - name: I Need Help
       pageRef: /help
       weight: 2
     - name: About
-      pageRef: /about/about
+      pageRef: /about
       weight: 3
     - name: Email Me ↗
       url: "mailto:caldwell.j.matthew@gmail.com?subject=Light%20in%20the%20Iron%20Cage&body=A%20Question%2C%20Comment%2C%20or%20Concern%3F"
