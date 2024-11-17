@@ -6,8 +6,8 @@ type: about
 ## Personal Info
 
 {{< cards >}}
-  {{< card link="statement-of-faith" title="Statement of Faith" icon="book-open" >}}
-  {{< card link="who-am-i" title="Who am I?" icon="user" >}}
+  {{< card link="../statement-of-faith" title="Statement of Faith" icon="book-open" >}}
+  {{< card link="../who-am-i" title="Who am I?" icon="user" >}}
 {{< /cards >}}
 
 ## Site Info
@@ -19,8 +19,8 @@ Unless otherwise indicated, all Scripture quotations are referenced from _The Ho
 Please see [esv.org](https://www.esv.org) for more information.
 
 {{< cards >}}
-  {{< card link="legal/tos" title="Terms and Conditions" icon="book-open" >}}
-  {{< card link="legal/privacy" title="Privacy Policy" icon="user" >}}
+  {{< card link="../legal/tos" title="Terms and Conditions" icon="book-open" >}}
+  {{< card link="../legal/privacy" title="Privacy Policy" icon="user" >}}
 {{< /cards >}}
 
 If you have any further questions or concerns, feel free to email me. Thanks!
