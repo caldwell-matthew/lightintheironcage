@@ -21,9 +21,7 @@ toc: false
 > "Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert."  
 > -- Isaiah 43:18-19
 
-Light in the Iron Cage was created, above all, to serve as a personal testimony and praise to the mercy and kindness of my God, Savior, and Friend - Jesus Christ. As He has shown me gentleness and pursued me with unrelenting love, I desire to articulate my own thoughts and experiences in the hopes that God may use them for His glory to help those in need: the suffering, the despairing, the depressed, the hopeless, the numb, the addicted, the poor, the broken, the lost, the sinful, and those who feel trapped within an [**Iron Cage.**](https://kenpulsmusic.com/pilgrimsprogress28.html) 
-
-I pray to my Father that through His Holy Spirit, He might use this humble blog of mine to save, comfort, exhort, challenge and edify any soul who stumbles upon it. I pray for you, dear reader, that it may be so for even you. Amen.  
+Light in the Iron Cage was created for the purpose of glorifying God and pointing the suffering to Him. As one who was formerly despairing in an [**Iron Cage**](https://kenpulsmusic.com/pilgrimsprogress28.html), I want to point others like me towards the healing light of Jesus through the Holy Spirit. Dear reader, I pray that you would be challenged and edified by my words and know the kindness of Christ more and more.
 
 This blog is broken into three main types of posts: The Pilgrim's Log (living the Christian life), The Library (literature/books), and The Ensemble (music). Take a look around!
 {{< cards cols="1" >}}
