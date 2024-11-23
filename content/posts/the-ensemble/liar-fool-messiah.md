@@ -15,7 +15,6 @@ weight: 1
 > With who He claimed to be  
 > The choices are one of three:  
 > Liar, fool, or Messiah!"  
->
 > -- [Theocracy - Liar, Fool, or Messiah](https://open.spotify.com/track/6EzVRnzx6WdFbZu83yqPzH)
 
 <!-- Spotify -->
@@ -29,7 +28,6 @@ weight: 1
 </iframe>
 
 > "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”"  
->
 > -- John 8:58
 
 > “I am trying here to prevent anyone saying the really foolish thing that people often say about Him: 
@@ -43,7 +41,6 @@ You must make your choice.
 You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. 
 >
 > He has not left that open to us. He did not intend to.”  
-> 
 > -- C.S. Lewis, Mere Christianity
 
 Lewis's Trilemma is an excellent argument because it forces all of us to look at what Jesus claimed and make a logical conclusion. 
@@ -73,7 +70,6 @@ This is why at this time I viewed myself as an agnostic, not an atheist.
 This however, is a grave error. To say "I don't know", is to make a choice just as certain as saying "I don't believe" or "I do believe."
 
 > "If you choose not to decide, you still have made a choice."  
->
 > -- [Rush - Freewill](https://open.spotify.com/track/5IXfKaC9qMaTBZDVS0hQ67?utm_source=generato)
 
 <!-- Spotify -->

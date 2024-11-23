@@ -21,7 +21,9 @@ toc: false
 > "Remember not the former things, nor consider the things of old. Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert."  
 > -- Isaiah 43:18-19
 
-Light in the Iron Cage was created for the purpose of glorifying God and pointing the suffering to Him. As one who was formerly despairing in an [**Iron Cage**](https://kenpulsmusic.com/pilgrimsprogress28.html), I want to point others like me towards the healing light of Jesus through the Holy Spirit. Dear reader, I pray that you would be challenged and edified by my words and know the kindness of Christ more and more.
+Light in the Iron Cage was created for the purpose of glorifying God and pointing the suffering to Him. As one who was formerly despairing in an [**Iron Cage**](https://kenpulsmusic.com/pilgrimsprogress28.html), I want to point others like me towards the healing light of Jesus through the Holy Spirit. 
+
+Dear reader, I pray that you would be challenged and edified by my words and know the kindness of Christ more and more.
 
 This blog is broken into three main types of posts: The Pilgrim's Log (living the Christian life), The Library (literature/books), and The Ensemble (music). Take a look around!
 {{< cards cols="1" >}}
