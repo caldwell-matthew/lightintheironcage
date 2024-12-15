@@ -113,6 +113,8 @@ For more information, see the following:
 > 
 > [What Did Jesus Teach about Politics?](https://www.crossway.org/articles/what-did-jesus-teach-about-politics/)
 > 
+> [Reflections on Faith and Politics](https://gospelinlife.com/article/reflections-on-faith-and-politics/)
+>
 > [The Problem of Voting for Candidates Who Promise to do Evil](https://mereorthodoxy.com/2024-election-vote)
 
 ### Section 4: Interpreting End Times
