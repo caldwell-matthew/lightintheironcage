@@ -41,7 +41,7 @@ toc: true
 - https://mhanational.org/crisisresources
 - https://www.nami.org/home
 
-### OCD / Scrupulocity
+### OCD / Scrupulosity
 - https://www.emmascrivener.net/?s=ocd
 - https://www.ocduk.org/ocd/history-of-ocd/
 - https://ocdandchristianity.com/

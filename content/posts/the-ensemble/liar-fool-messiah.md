@@ -70,7 +70,7 @@ To say "I don't know", is to make a choice just as certain as saying "I don't be
 
 Looking back, I must confess that my answer to the trilemma was "liar". Even though I never verbally declared it, my belief and actions reflected it. I thought that either the Bible/Christianity was not true (lie) or that I was exempt from it's promises (lie) or had lost my salvation (lie) or that God hated me (lie). See a pattern here? I clearly answered the question because every single person must (and does) ultimately have an answer.
 
-A christian says "Lord". An atheist says "liar", "fool", or "legend". An agnostic may say "unknown/unknowable", but in reality that is the same exact answer of an atheist - they just haven't decided on which variant or are avoiding the question entirely.
+A Christian says "Lord". An atheist says "liar", "fool", or "legend". An agnostic may say "unknown/unknowable", but in reality that is the same exact answer of an atheist - they just haven't decided on which variant or are avoiding the question entirely.
 
 As Theocracy said, 
 > The only conclusions  
