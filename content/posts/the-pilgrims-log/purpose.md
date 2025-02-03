@@ -4,6 +4,8 @@ type: docs
 weight: 1
 ---
 
+![Christ in the House of Martha and Mary](/img/marymartha.jpg "Christ in the House of Martha and Mary - Johannes Vermeer")
+
 > "Now as they went on their way, Jesus entered a village. And a woman named Martha welcomed him into her house. And she had a sister called Mary, who sat at the Lord's feet and listened to his teaching. But Martha was distracted with much serving. And she went up to him and said, “Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.” 
 >
 > But the Lord answered her, “Martha, Martha, you are anxious and troubled about many things, but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”"  
