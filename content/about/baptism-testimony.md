@@ -12,6 +12,8 @@ And as John 15:16 says, “You did not choose me, but I chose you.” He showed 
 
 Repentance is not just feeling sorrow and hopeless despair over sin. True repentance leads a sinner to rest and trust in God. Not in a vague sense, but in a life-altering sense. Knowledge of sin and God will do you no good at all if you don't respond in your emotions and volitional will. You need all three. Neither will it help you to just do the right things with no emotional heart. We were saved to love God and be loved. Anything that leads you away from delighting in God who has loved you, loving Him, and loving others, is completely missing the point. I finally understand what it means that Christianity is not a religion, but a living and vibrant relationship with a God who loved me first and adopted me into His family. 
 
-I’ll close with this quote from C.S. Lewis: “The great thing to remember is that, though our feelings come and go, His love for us does not. It is not wearied by our sins, or our indifference; and, therefore, it is quite relentless in its determination that we shall be cured of those sins, at whatever cost to us, at whatever cost to Him.” I stand here as one relentlessly loved forever by a living God in spite of my sin.
+I’ll close with this quote from C.S. Lewis: “The great thing to remember is that, though our feelings come and go, His love for us does not. It is not wearied by our sins, or our indifference; and, therefore, it is quite relentless in its determination that we shall be cured of those sins, at whatever cost to us, at whatever cost to Him.” 
+
+I stand here as one relentlessly loved forever by a living God in spite of my sin.
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

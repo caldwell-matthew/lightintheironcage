@@ -6,19 +6,23 @@ weight: 1
 
 ![N.I.C.E.](/img/NICE.png "N.I.C.E. - J.P. Cokes")
 
-_That Hideous Strength_ is a unique, compelling, and haunting book. It's one of my favorites. I love basically anything and everything that C.S. Lewis has written, but this last book in his "Ransom (or Space) Trilogy" is perhaps one of, if not the most, dark and thought-provoking. You don't *need* to have read the first two books in the trilogy to understand this one, but I would obviously recommend it.
+_That Hideous Strength_ is a unique, compelling, and haunting book. It's one of my favorites. I love basically anything and everything that C.S. Lewis has written, but this last book in his "Ransom" (or Space) trilogy is perhaps one of-if not the most-dark and thought-provoking. You don't _need_ to have read the first two books in the trilogy to understand it, but I would obviously recommend it.
 
-It is a dystopian science fiction novel about the dangers of a 'modernized' society attempting to use science, philosophy, sociology, and even demonic influence to achieve power over the world and transcend their own humanity in a final rejection of God. 
+It is a dystopian science fiction novel about the dangers of a 'modernized' society attempting to use science, philosophy, sociology, and even demonic influence to achieve power over the natural world, transcend their own humanity, and reject God. 
 
-It was published in 1945 and and yet it is not dated in the slightest - in fact - it's borderline prophetic. If you take a good look around at our world today and then examine Lewis's society ruled by the N.I.C.E. - the "National Institute for Co-ordinated Experiments", you will not see much of a difference. 
+It was published in 1945 and and yet it is not dated in the slightest. In fact, it's borderline prophetic. If you take a good look around at our world today and then examine Lewis's society ruled by the N.I.C.E. - the "National Institute for Co-ordinated Experiments", you will not see much of a difference. 
 
-Even during Lewis's day such a world seemed to be just on the horizon. Consider these words from George Orwell who created the infamous "Big Brother" in _Nineteen Eighty-Four_ just four years after Lewis wrote _That Hideous Strength_: 
+Even during Lewis's day such a world seemed to be just on the horizon. Consider these words from George Orwell who penned the infamous "Big Brother" in _Nineteen Eighty-Four_ just four years after Lewis wrote _That Hideous Strength_: 
 > "Plenty of people in our age do entertain the monstrous dreams of power that Mr Lewis attributes to his characters [the N.I.C.E. scientists], and **we are within sight of the time when such dreams will be realizable**." (emphasis mine)     
 > -- George Orwell, Review of That Hideous Strength
 
-That is utterly terrifying...and why it is a good book.
+That is utterly terrifying...and why it is such an utterly good book.
 
-Science fiction is one of my favorite genres because it forces all of us to really ponder what we humans actually are and how it can be marred. _Star Trek_ for instance is a great example of how technology can act as a good gift from God to help mankind. _Blade Runner_ poses the question of what makes us human at all compared to androids. _Terminator_ highlights the dangers of giving AI too much power. _Brave New World_ depicts a society enslaved to pleasure.
+Science fiction is one of my favorite genres because it forces all of us to really ponder what we humans actually are and how it can be marred. For instance,
+- _Star Trek_ shows how technology can act as a good gift from God to help mankind explore the stars and connect with other life. 
+- _Blade Runner_ poses the question of what makes us human. 
+- _Terminator_ highlights the dangers of giving AI too much power. 
+- _Brave New World_ depicts a society enslaved to it's pleasures.
 
 We in modern society have medicines and doctors and AI and computers to help us live life. These are good things if used rightly, but like anything good, it can be twisted. Technology in particular can be bent into something very very inhuman. 
 - A moderate use of medicine for pain relief can turn into a crippling opiate addiction that can kill you. 

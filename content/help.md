@@ -13,48 +13,43 @@ toc: true
 ### Bible Study Tools
 
 - https://www.Biblegateway.com/
-- https://www.preceptaustin.org/
-- https://www.crossway.org/
-- https://www.blueletterBible.org/
 - https://www.Bibleref.com/
-- https://www.gotquestions.org/
-- https://www.logos.com/
-- https://www.spurgeongems.org/
 - https://www.cslewisinstitute.org/
-- https://www.thegospelcoalition.org/
+- https://www.crossway.org/
 - https://www.desiringgod.org/
-- https://www.challies.com/
-- https://www.ligonier.org/
+- https://www.gotquestions.org/
 - https://www.gty.org/
+- https://www.ligonier.org/
 - https://mereorthodoxy.com/
+- https://www.preceptaustin.org/
+- https://www.spurgeongems.org/
+- https://www.thegospelcoalition.org/
+- https://www.emmascrivener.net/
 
 ## Mental Health Resources
 
 ### Biblical Counseling
-- https://www.ccef.org/
 - https://biblicalcounseling.com/
+- https://www.ccef.org/
 - https://thecbcd.org/
 
 ### Secular Counseling
 - https://www.samhsa.gov/find-help/national-helpline
 - https://www.apa.org/topics/crisis-hotlines
 - https://mhanational.org/crisisresources
+- https://www.psychologytoday.com/us/therapists
 - https://www.nami.org/home
 
-### OCD / Scrupulosity
-- https://www.emmascrivener.net/?s=ocd
+### Scrupulosity (Religious OCD)
+- https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity/
 - https://www.ocduk.org/ocd/history-of-ocd/
 - https://ocdandchristianity.com/
 - https://graceaboundinginocd.com/
 - https://livingart77.wordpress.com/
-- https://scrupulosity.com/
-- https://wrestledfaith.wordpress.com/
+- https://scrupulosity.com/scrupulosity/
 - MORE COMING...
 
 ## Books
-
-> "When you come, bring the cloak that I left with Carpus at Troas, **also the books, and above all the parchments**" (emphasis mine).  
-> -- 2 Tim. 4:13
 
 > "The man who never reads will never be read; he who never quotes will never be quoted. He who will not use the thoughts of other men’s brains, proves that he has no brains of his own."  
 > -- **Charles H. Spurgeon**
@@ -99,7 +94,7 @@ toc: true
 
 ### The Lord of the Rings
 
-> "End? No, the journey doesn't end here. Death is just another path, one that we all must take. The grey rain-curtain of this world rolls back, and all turns to silver glass, and then you see it."  
+> "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater."  
 > -- J.R.R. Tolkien
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

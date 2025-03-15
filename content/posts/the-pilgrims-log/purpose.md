@@ -26,9 +26,12 @@ Only one thing is necessary - we were made to be in relationship with God. Not j
 
 One thing is necessary - and I confess I have not been focusing on this one thing I was made for: to know God, love God, and be known and loved by Him. I haven't been pursing Him wholeheartedly; it's no wonder why I feel so awful! I have been trying to fill my hungry soul with expensive sand instead of living bread freely given.
 
-I want to talk to God more. I want to listen to Him more. I want to live for Him more. I want to obey Him more. I want more of Him. 
+I want to talk to God more. I want to listen to Him more. I want to live for Him more. I want to obey Him more. I want more of Him. The greatest thing to realize is that He wants the very same thing I do. 
 
-The greatest thing to realize is that He wants the very same thing I do. He wants me to know Him and who He is! He wants me to rest in His love for me. He wants me to trust in Him. He wants me to abide in Him. He wants to be with me and I to be with Him. He loves me and wants me to rest His overwhelming embrace in Christ.
+- He wants me to know Him. 
+- He wants me to trust Him and His love. 
+- He wants to be with me and I to be with Him. 
+- He wants me to rest His overwhelming embrace in Christ.
 
 How can I not relentlessly pursue this God who loves me so?
 

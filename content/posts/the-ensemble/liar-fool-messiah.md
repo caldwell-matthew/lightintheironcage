@@ -34,11 +34,14 @@ weight: 1
 > "This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God."  
 > -- John 5:18
 
-Theocracy is one of my very favorite bands of all time due to their beautiful sound and powerful lyrics. The song "Liar, Fool, or Messiah", is a reference to C.S. Lewis's [trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma) and one of the most excellent logical arguments for the legitimacy of Christianity. 
+Theocracy is one of my very favorite bands of all time. This song, "Liar, Fool, or Messiah", is a reference to C.S. Lewis's [trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma) and one of the most excellent logical arguments for the legitimacy of Christianity. 
 
-The words and claims of Jesus of Nazareth are recorded for all humanity to read and respond to - He boldly claimed to be God and the Christ (Messiah). Lewis simply concludes that then He must either be: 1. Lying, 2. Delusional, or 3. Telling the truth.
+The words and claims of Jesus of Nazareth are recorded for all humanity to read and respond to - He boldly claimed to be God and the Christ (Messiah). Lewis simply concludes that then He must either be: 
+1. Lying
+2. Delusional
+3. Telling the truth.
 
-Some also add a fourth option and claim that Jesus could also have been a 4. fabricated legend or story, but that argument collapses at even the most rudimentary inquiry into the historical reality of Jesus from multiple secular accounts, let alone the testimony of the Bible and other saints. 
+Some also add a fourth option and claim that Jesus could also have been a "fabricated legend or story", but that argument collapses at even the most rudimentary inquiry into the historical reality of Jesus from multiple secular accounts-let alone the testimony of the Bible and other saints. 
 
 Say what you want about Jesus, but this man existed and claimed to be God. We cannot not have an opinion on this such a person. 
 
@@ -52,8 +55,7 @@ It is interesting to me that even when I was an agnostic, I would have never sai
 
 For me there was too much evidence that Christianity was true for me to declare that it was outright false, but there was also much I could also try and point to as proof it was (at least for me specifically). This is why at this time I viewed myself as an agnostic, not an atheist. This however, was a grave error. 
 
-To say "I don't know", is to make a choice just as certain as saying "I don't believe" or "I do believe." As Rush declared in "Freewill", 
-
+To say "I don't know", is to make a choice just as certain as saying "I don't believe" or "I do believe." As the legendary rock band Rush declared in "Freewill", indecision is ultimately still a choice.
 >
 <!-- Spotify -->
 <iframe 
@@ -79,7 +81,7 @@ As Theocracy said,
 > The arguments rise and fall  
 > It's either liar, fool, or Messiah  
 
-I'm not trying to step on toes here. I'm really not; I was an agnostic myself. I still to this day struggle with deep doubt and unbelief even as a Christian. I am simply trying to argue that everyone should at a bare minimum read the Bible, see what it says about Jesus, and make a conclusion about Him. Every one of us must all answer Jesus' question: "But who do you say that I am?" (Matthew 16:15)
+I'm really not trying to step on toes here. I'm really not; I was an agnostic myself. I still to this day struggle with deep doubt and unbelief even as a Christian. I am simply trying to argue that everyone should at a bare minimum read the Bible, see what it says about Jesus, and make a conclusion about Him. Every one of us must all answer Jesus' question: "But who do you say that I am?" (Matthew 16:15)
 
 Seek to know who He was and is. All of life, death, and reality is changed if He really is who He says he is. It is terrifying. It is also life-changing. You will find Him and He will find you if you but look. (Jeremiah 29:13, Matthew 11:28-30, Hebrews 13:8, Revelation 3:20)
 
