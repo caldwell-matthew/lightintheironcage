@@ -1,5 +1,5 @@
 ---
-title: Purpose
+title: The Good Portion
 type: docs
 weight: 1
 ---
@@ -14,7 +14,7 @@ weight: 1
 > "Yet I hold this against you: You have forsaken the love you had at first."  
 > -- Revelation 2:4
 
-I've recently been gently and sternly rebuked by Jesus in the very same ways He spoke to Martha and the Ephesian church. I am ashamed; for I had come to the realization that my heart had once again cooled in its deep love for God.
+I've recently been gently and sternly rebuked by Jesus in the very same ways He spoke to Martha and the Ephesians. I am ashamed; for I had come to the realization that my heart had once again cooled in its deep love for God.
 
 It didn't happen overnight; like most sin, it crept up slowly like mold. 
 

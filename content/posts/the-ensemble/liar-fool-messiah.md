@@ -1,5 +1,5 @@
 ---
-title: Liar, Fool, or Messiah
+title: Liar, Fool, or Messiah?
 type: docs
 weight: 1
 ---

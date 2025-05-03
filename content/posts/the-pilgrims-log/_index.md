@@ -5,5 +5,3 @@ weight: 1
 ---
 
 I talk about living the Christian life here.
-
-Posts in this folder are about anything and everything related to the struggle of living life in a broken world. 

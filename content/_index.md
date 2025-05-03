@@ -23,11 +23,13 @@ toc: false
 
 Light in the Iron Cage was created for the purpose of glorifying God and pointing the suffering to Him. As one who was formerly despairing in an [**Iron Cage**](https://kenpulsmusic.com/pilgrimsprogress28.html), I want to point others like me towards the healing light of Jesus through the Holy Spirit. I pray that you would be pointed to the kindness of Christ here.
 
-This blog is broken into three main types of posts: The Pilgrim's Log (living the Christian life), The Library (literature/books), and The Ensemble (music). Take a look around!
+This blog is broken into four main types of posts: The Pilgrim's Log (living the Christian life), The Library (literature/books), The Ensemble (music), and The Cinema (movies/tv/anime). Take a look around!
+
 {{< cards cols="1" >}}
-  {{< card link="posts/the-pilgrims-log" title="The Pilgrims Log" icon="book-open" >}}
+  {{< card link="posts/the-pilgrims-log" title="The Pilgrim's Log" icon="book-open" >}}
 	{{< card link="posts/the-library" title="The Library" icon="book-open" >}}
 	{{< card link="posts/the-ensemble" title="The Ensemble" icon="book-open" >}}
+  {{< card link="posts/the-cinema" title="The Cinema" icon="book-open" >}}
 {{< /cards >}}
 
 If you need help or information, see below.
