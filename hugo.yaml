@@ -28,9 +28,9 @@ menu:
     - name: About
       pageRef: /about
       weight: 3
-    # - name: Email Me ↗
-    #   url: "mailto:caldwell.j.matthew@gmail.com?subject=Light%20in%20the%20Iron%20Cage&body=A%20Question%2C%20Comment%2C%20or%20Concern%3F"
-    #   weight: 4
+    - name: Email Me ↗
+      url: "mailto:caldwell.j.matthew@gmail.com?subject=Light%20in%20the%20Iron%20Cage&body=A%20Question%2C%20Comment%2C%20or%20Concern%3F"
+      weight: 4
     - name: Search
       weight: 5
       params:
@@ -44,3 +44,7 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: true
+
+  displayDate: true
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"

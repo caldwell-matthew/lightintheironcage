@@ -52,7 +52,7 @@ toc: true
 ## Books
 
 > "The man who never reads will never be read; he who never quotes will never be quoted. He who will not use the thoughts of other men’s brains, proves that he has no brains of his own."  
-> -- **Charles H. Spurgeon**
+> -- Charles H. Spurgeon
 
 ### Mere Christianity
 

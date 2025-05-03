@@ -1,7 +1,7 @@
 ---
 title: The Secret Life of Walter Mitty
 type: docs
-weight: 1
+weight: 1 
 ---
 
 ![Life](/img/LIFE.png "Life - Life Magazine")
