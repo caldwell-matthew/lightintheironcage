@@ -51,11 +51,13 @@ With this goal in mind, I want to work and play for the glory of God.
 
 As for work, I currently am a software developer since I obtained my bachelors in computer science, but it is not really a passion of mine. It mainly pays the bills and is fun (at times) to problem solve. This blog is one way I want to use my educational background to get my thoughts out there to potentially help other people know more about God and how to walk through life with Him through suffering and splendor. I need to preach truth to myself daily! You can read all about my thoughts on the Christian life and meaning in [The Pilgrim's Log](/lightintheironcage/posts/the-pilgrims-log/).
 
-As for play, I deeply love music and books! They are precious gifts from the Father.
+As for play, I deeply love music, books, and other forms of storytelling! They are precious gifts from the Father.
 
-I listen to music constantly, play electric guitar, and write my own music. A big dream of mine is to become a professional musician. Lord willing, I would relish the opportunity to make music for God. My taste in music is a blend of metal/rock/progressive with Christian/poignant themes. I have many beloved bands and music that I love to talk about in [The Ensemble](/posts/the-ensemble/). 
+I listen to music constantly, play electric guitar, and write my own music. A big dream of mine is to become a professional musician. Lord willing, I would relish the opportunity to make music for God. My taste in music is a blend of metal/rock/progressive with Christian/thoughtful themes. I have many beloved bands and music that I love to talk about in [The Ensemble](/lightintheironcage/posts/the-ensemble/). 
 
-As for literature, since coming to faith my love of books was reunited. How could it not? The Bible is a book. Life itself is a storybook God is writing. I have many favorite books and authors (especially anything by C.S. Lewis) which I love to talk about in [The Library](/posts/the-library).
+As for literature, since coming to faith my love of books was reunited. How could it not? The Bible is a book. Life itself is a storybook God has written. I have many favorite books and authors (especially anything by C.S. Lewis) which I love to talk about in [The Library](/lightintheironcage/posts/the-library).
+
+As for other media I enjoy movies, tv, and anime. Just like with music and books I tend to be drawn to anything that explores very religious, philosophical, or poignant themes. I have found many stories (particularly anime) that have some of the most utterly beautiful stories that point to our human longing for God or some other biblical truth. Check out my thoughts in [The Cinema](/lightintheironcage/posts/the-cinema).
 
 Thanks so much for listening; I hope my writing can be helpful to point you to God.
 
