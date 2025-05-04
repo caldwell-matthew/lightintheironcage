@@ -93,12 +93,9 @@ Seek to know who He was and is. All of life, death, and reality is changed if He
 > -- C.S. Lewis, Mere Christianity
  
 For more information, see the following:
-> [Jesus Is the Christ the Son of God](https://www.desiringgod.org/messages/jesus-is-the-christ-the-son-of-god)
->
-> [Is C.S. Lewis’s Liar-Lord-or-Lunatic Argument Unsound? ](https://www.thegospelcoalition.org/blogs/justin-taylor/is-c-s-lewiss-liar-lord-or-lunatic-argument-unsound/)
->
-> [Isn’t Jesus Just Like All the Other Religious Leaders?](https://www.cslewisinstitute.org/resources/isnt-jesus-just-like-all-the-other-religious-leaders/)
->
-> [What is the quintilemma concerning Jesus Christ?](https://www.gotquestions.org/quintilemma.html)
+> [Jesus Is the Christ the Son of God](https://www.desiringgod.org/messages/jesus-is-the-christ-the-son-of-god)  
+> [Is C.S. Lewis’s Liar-Lord-or-Lunatic Argument Unsound? ](https://www.thegospelcoalition.org/blogs/justin-taylor/is-c-s-lewiss-liar-lord-or-lunatic-argument-unsound/)  
+> [Isn’t Jesus Just Like All the Other Religious Leaders?](https://www.cslewisinstitute.org/resources/isnt-jesus-just-like-all-the-other-religious-leaders/)  
+> [What is the quintilemma concerning Jesus Christ?](https://www.gotquestions.org/quintilemma.html)  
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
