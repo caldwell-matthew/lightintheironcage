@@ -1,7 +1,9 @@
 ---
-title: Liar, Fool, or Messiah?
+title: Liar, Fool, or Messiah
 type: docs
 weight: 1
+categories: [development, publishing]
+tags: [hugo,content,static site generator]
 ---
 
 <!-- Spotify -->
@@ -34,18 +36,15 @@ weight: 1
 > "This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God."  
 > -- John 5:18
 
-Theocracy is one of my very favorite bands of all time. This song, "Liar, Fool, or Messiah", is a reference to C.S. Lewis's [trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma) and one of the most excellent logical arguments for the legitimacy of Christianity. 
+Theocracy is one of my very favorite bands of all time. This song, "Liar, Fool, or Messiah", is a reference to C.S. Lewis's [trilemma](https://en.wikipedia.org/wiki/Lewis%27s_trilemma) and one of the most excellent logical arguments for the legitimacy of Christianity. The words and claims of Jesus of Nazareth are recorded for all humanity to read and respond to - He boldly claimed to be God and the Christ (Messiah). Lewis simply concludes that then He must either be: 
 
-The words and claims of Jesus of Nazareth are recorded for all humanity to read and respond to - He boldly claimed to be God and the Christ (Messiah). Lewis simply concludes that then He must either be: 
 1. Lying
 2. Delusional
 3. Telling the truth.
 
-Some also add a fourth option and claim that Jesus could also have been a "fabricated legend or story", but that argument collapses at even the most rudimentary inquiry into the historical reality of Jesus from multiple secular accounts-let alone the testimony of the Bible and other saints. 
+Some also add a fourth option and claim that Jesus could also have been a "fabricated legend or story", but that argument collapses at even the most rudimentary inquiry into the historical reality of Jesus from multiple secular accounts-let alone the testimony of the Bible and other saints. Say what you want about Jesus, but this man existed and claimed to be God. We cannot not have an opinion on this such a person. 
 
-Say what you want about Jesus, but this man existed and claimed to be God. We cannot not have an opinion on this such a person. 
-
-If I go out into the world and encounter someone who introduces themselves as God very God who is above all, and created all, and is all powerful and eternal, I am going to think they are out of their mind or a devilish liar. I guarantee you that no rational person would (or should) wholeheartedly accept and believe anyone who claims such a thing. With this in mind, why did people believe Jesus? Why do I believe Jesus? Why should you also believe in Him?
+If I go out into the world and encounter someone who introduces themselves as God very God who is above all, and created all, and is all powerful, I am going to think they are out of their mind or a devilish liar. I guarantee you that no rational person would (or should) wholeheartedly accept and believe anyone who claims such a thing. With this in mind, why did people believe Jesus? Why do I believe Jesus? Why should you also believe in Him?
 
 I am a former agnostic and apostate of the Christianity that was saved after leaving for years. I know the temptation to simply throw up your hands and conclude that there is no way to know for sure if any religion is true, let alone the Christian faith or the words of Jesus. I get it; I really do. Questions of meaning, life, death, and truth are nontrivial matters of reality.
 
@@ -55,7 +54,7 @@ It is interesting to me that even when I was an agnostic, I would have never sai
 
 For me there was too much evidence that Christianity was true for me to declare that it was outright false, but there was also much I could also try and point to as proof it was (at least for me specifically). This is why at this time I viewed myself as an agnostic, not an atheist. This however, was a grave error. 
 
-To say "I don't know", is to make a choice just as certain as saying "I don't believe" or "I do believe." As the legendary rock band Rush declared in "Freewill", indecision is ultimately still a choice.
+To say "I don't know", is to make a choice just as certain as saying "I don't believe" or "I do believe." As the legendary rock band Rush declared in "Freewill", indecision is still a choice.
 >
 <!-- Spotify -->
 <iframe 
@@ -74,7 +73,7 @@ Looking back, I must confess that my answer to the trilemma was "liar". Even tho
 
 A Christian says "Lord". An atheist says "liar", "fool", or "legend". An agnostic may say "unknown/unknowable", but in reality that is the same exact answer of an atheist - they just haven't decided on which variant or are avoiding the question entirely.
 
-As Theocracy said, 
+So as Theocracy sang, 
 > The only conclusions  
 > We're left to draw  
 > When we have heard it all  

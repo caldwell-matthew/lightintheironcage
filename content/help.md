@@ -51,9 +51,6 @@ toc: true
 
 ## Books
 
-> "The man who never reads will never be read; he who never quotes will never be quoted. He who will not use the thoughts of other men’s brains, proves that he has no brains of his own."  
-> -- Charles H. Spurgeon
-
 ### Mere Christianity
 
 > "Most people, if they had really learned to look into their own hearts, would know that they do want, and want acutely, something that cannot be had in this world. There are all sorts of things in this world that offer to give it to you, but they never quite keep their promise.

@@ -12,9 +12,9 @@ What is a bad one?
 What is a wasted one?
 What is a fulfilled one?
 
-_The Secret Life of Walter Mitty_ has a 7.3 stars on IMDB and a (71% user / 52% critic) percentage rating on RottenTomatoes. This tells me that very few people actually understood this movie's message. 
+[The Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/) has a 7.3 stars on IMDB and a (71% user / 52% critic) percentage rating on RottenTomatoes. This tells me that very few people actually understood this movie's message. 
 
-Granted this movie is not a masterpiece, but it is certainly not anything less than a solid "A-". I loved it. It is a very touching look at humanity and the value of life.
+Granted this movie is not a masterpiece, but it is certainly not anything less than a solid "B". I loved it. It is a very touching look at humanity and the value of life.
 
 Walter Mitty is a massive introvert. A daydreamer always escaping into his imaginary version of the world. He works in a cold basement for Life Magazine editing photo negatives of far more interesting lives than his own. His imagination and his reality are blurred together and cross back and forth because he is unsatisfied with life. Talk about a relatable temptation.
 
@@ -56,6 +56,6 @@ What a wonderfully biblical and beautiful truth.
 > “Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations.”  
 > -- Jeremiah 1:5
 
-**Rating: A-** : An exceptional movie on the value of "ordinary" life.
+**Rating: B** : A great movie on the value of an "ordinary" life.
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
