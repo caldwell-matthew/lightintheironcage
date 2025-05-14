@@ -12,7 +12,6 @@ For more information, see the following:
 > [Should I Watch This?](https://www.thegospelcoalition.org/article/should-i-watch-this-5-questions-for-the-discerning-viewer/)  
 > [What should be the Christian view of anime?](https://www.gotquestions.org/Christian-anime.html)  
 > [Is it sin to watch movies?](https://www.compellingtruth.org/sin-movies.html)  
-> [Geeks Under Grace](https://www.geeksundergrace.com/)  
 > [Common Sense Media](https://www.commonsensemedia.org/)  
 > [Plugged In](https://www.pluggedin.com/)  
 
