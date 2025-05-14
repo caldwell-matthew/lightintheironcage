@@ -4,6 +4,6 @@ type: docs
 weight: 3
 ---
 
-I talk about music here.
+I talk about masterful music worth listening to here.
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

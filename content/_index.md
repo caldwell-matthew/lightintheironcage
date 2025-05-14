@@ -25,7 +25,7 @@ Light in the Iron Cage was created for the purpose of glorifying God and pointin
 
 This blog is broken into four main types of posts: The Pilgrim's Log (living the Christian life), The Library (literature/books), The Ensemble (music), and The Cinema (movies/tv/anime). Take a look around!
 
-{{< cards cols="1" >}}
+{{< cards cols="2" >}}
   {{< card link="posts/the-pilgrims-log" title="The Pilgrim's Log" icon="book-open" >}}
 	{{< card link="posts/the-library" title="The Library" icon="book-open" >}}
 	{{< card link="posts/the-ensemble" title="The Ensemble" icon="book-open" >}}
