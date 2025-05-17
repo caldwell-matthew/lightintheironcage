@@ -3,20 +3,12 @@ title: Liar, Fool, or Messiah
 type: docs
 weight: 1
 categories: [development, publishing]
-tags: [hugo,content,static site generator]
 ---
 
 <!-- Spotify -->
-<iframe 
-	style="border-radius: 12px; border: 0.1px solid white;" 
-	src="https://open.spotify.com/embed/track/5IXfKaC9qMaTBZDVS0hQ67?utm_source=generator"
-	width="100%" 
-	height="82" 
-	allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-	loading="lazy">
-</iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6EzVRnzx6WdFbZu83yqPzH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-> "Have no illusions  
+> Have no illusions  
 > The only conclusions  
 > We're left to draw  
 > When we have heard it all  
@@ -26,9 +18,8 @@ tags: [hugo,content,static site generator]
 > Some say patronizingly  
 > With who He claimed to be  
 > The choices are one of three:  
-> Liar, fool, or Messiah!"  
+> Liar, fool, or Messiah!
 > -- [Theocracy - Liar, Fool, or Messiah](https://open.spotify.com/track/6EzVRnzx6WdFbZu83yqPzH)
-
 
 > "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”"  
 > -- John 8:58
@@ -57,14 +48,7 @@ For me there was too much evidence that Christianity was true for me to declare 
 To say "I don't know", is to make a choice just as certain as saying "I don't believe" or "I do believe." As the legendary rock band Rush declared in "Freewill", indecision is still a choice.
 >
 <!-- Spotify -->
-<iframe 
-	style="border-radius: 12px; border: 0.1px solid white;" 
-	src="https://open.spotify.com/embed/track/2dsqnmDSGuFDGd9a5qrefX?utm_source=generator"
-	width="100%" 
-	height="82" 
-	allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-	loading="lazy">
-</iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2dsqnmDSGuFDGd9a5qrefX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > "If you choose not to decide, you still have made a choice."  
 > -- [Rush - Freewill](https://open.spotify.com/track/5IXfKaC9qMaTBZDVS0hQ67?utm_source=generato)

@@ -6,17 +6,6 @@ weight: 4
 
 I talk about movies, tv, and anime here. 
 
-Please Note: While I desire to glorify God with all the media I consume, something I am ok with watching may not at all be ok for you. I never ever would want to cause another brother or sister to stumble into sin. Please prayerfully read Romans 14:1-23, look at other reviews and/or a content guide, and if you feel comfortable watch with discernment.
-
-For more information, see the following:
-> [Should I Watch This?](https://www.thegospelcoalition.org/article/should-i-watch-this-5-questions-for-the-discerning-viewer/)  
-> [What should be the Christian view of anime?](https://www.gotquestions.org/Christian-anime.html)  
-> [Is it sin to watch movies?](https://www.compellingtruth.org/sin-movies.html)  
-> [Common Sense Media](https://www.commonsensemedia.org/)  
-> [Plugged In](https://www.pluggedin.com/)  
-
-However, anything that I am mentioning below **I firmly believe has something genuinely biblical and beautiful in it** that is worth watching. I will never recommend trash. I will only talk about things that are truly compelling and point toward the Lord and Truth.
-
 ##### Anime Tier List
 Anime 													 																						| Rating 	 | Comments 											
 --------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- 

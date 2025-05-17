@@ -46,26 +46,37 @@ We believe in the blessed hope (Titus 2:13), the personal and imminent coming of
 We believe that the souls of believers are, at death, absent from the body and present with the Lord, where they await their resurrection when spirit, soul, and body are reunited to be glorified forever with the Lord (Luke 23:43; 2 Corinthians 5:8; Philippians 1:23, 3:21; 1 Thessalonians 4:16-17). We believe that the souls of unbelievers remain, after death, in conscious misery until their resurrection when, with soul and body reunited, they shall appear at the Great White Throne judgment and shall be cast into the Lake of Fire to suffer everlasting punishment (Matthew 25:41-46; Mark 9:43-48; Luke 16:19-26; 2 Thessalonians 1:7-9; Revelation 20:11-15).
 
 ## Non-Critical Matters
-This portion of my statement of faith reflects my own views as informed by God, His word, and my own observations. Not all of my views may be agreed upon by my fellow brothers and sisters in Christ and that is perfectly fine--we are allowed to have disagreements. I simply ask that you disagree with me in a biblical way. Like all humans, I am fallible. Test what I say with what the Bible says. If I am in the wrong, I want to know why and how according to the word of God alone.
+This portion of my statement of faith reflects my own views as informed by God, His word, and my own observations. Not all of my views may be agreed upon by my fellow brothers and sisters in Christ and that is perfectly fine--we are allowed to have disagreements. I simply ask that you disagree with me in a biblical way. Like all humans, I am a sinner and therefore fallible. Test what I say with what the Bible says. If I am in the wrong, I want to know why and how according to the word of God alone.
 
 ### Section 1: Common Grace
-I believe in God's kindness expressed upon all humanity (redeemed or not) in the form of "Common Grace" that touches upon all aspects of life for all to enjoy (Matthew 5:45, Psalm 145:9, Luke 6:35). 
+I believe in God's kindness expressed upon all humanity (redeemed or not) in the form of "Common Grace" that touches upon all aspects of life for all to enjoy (Matthew 5:45, Psalm 145:9, Luke 6:35). All beauty points to God even if comes from a secular source.
+
+That being said, it is still secular. Please understand that while I desire to glorify God with everything I do/consume, to think on things that are true, and not cause another brother or sister to stumble, this is indeed a matter of christian liberty--something that I personally am ok with doing, listening to, watching, reading, or engaging with, may not at all be ok for you.
+
+Please prayerfully read Romans 14:1-23 and 1 Corinthians 10:24–29, look at reviews/content guides, and if you feel comfortable, only then should you engage with discernment.
+
+However, if it's something that I'm highlighting on this blog, that means **I firmly believe that it has something genuinely biblical and beautiful within it that is worth meditating on.**
+
+I absolutely will never recommend trash nor explicitly sinful content. I will only talk about things that are truly compelling and point toward the Lord and Truth.
 
 For more information, see the following:
-> [The Goodness of God and Common Grace](https://www.thegospelcoalition.org/essay/goodness-god-common-grace)
->
-> [The Gift of Music: Common Grace and Common Ground](https://www.cslewisinstitute.org/resources/the-gift-of-music-common-grace-and-common-ground/)
->
+> [The Goodness of God and Common Grace](https://www.thegospelcoalition.org/essay/goodness-god-common-grace)  
+> [The Gift of Music: Common Grace and Common Ground](https://www.cslewisinstitute.org/resources/the-gift-of-music-common-grace-and-common-ground/)  
 > [What is common grace?](https://www.gotquestions.org/common-grace.html)
+> [Should I Watch This?](https://www.thegospelcoalition.org/article/should-i-watch-this-5-questions-for-the-discerning-viewer/)  
+> [What should be the Christian view of anime?](https://www.gotquestions.org/Christian-anime.html)  
+> [Is it sin to watch movies?](https://www.compellingtruth.org/sin-movies.html)  
+> [Common Sense Media](https://www.commonsensemedia.org/)  
+> [Plugged In](https://www.pluggedin.com/)  
 
 ### Section 2: Mental Health
 I believe in the spiritual and physical realty of mental health as result of the Fall. 
 
-The moment Adam and Eve sinned, the world was cursed and began to die (Romans 8:21-22) along with our bodies (Genesis 3:19, Ecclesiastes 12:7). The mind is part of the body and as such can be afflicted with multiple issues like depression, OCD, anxiety, PTSD, autism, and many more terrible things. The idea that mental illness does not exist is bad theology, and gross representation of the gentle heart of God towards the sick, and incredibly harmful and dismissive to those who suffer from it. At best, it is a profound misunderstanding of the reality of sin, the Fall, and its deep effects upon physical and spiritual humanity. At worst, it boarders on heresy drifting toward the Prosperity Gospel--or perhaps more accurately, the _Mental Health Prosperity Gospel_. This must be rejected.
+The moment Adam and Eve sinned, the world was cursed (Romans 8:21-22) along with our bodies (Genesis 3:19, Ecclesiastes 12:7). The mind is part of the body and as such can be afflicted with multiple issues like depression, OCD, anxiety, PTSD, autism, and many more terrible things. The idea that mental illness does not exist is bad theology, and gross representation of the gentle heart of God towards the sick, and incredibly harmful and dismissive to those who suffer from it. At best, it is a profound misunderstanding of the reality of sin, the Fall, and its deep effects upon physical and spiritual humanity. At worst, it boarders on heresy drifting toward the Prosperity Gospel--or perhaps more accurately, the _Mental Health Prosperity Gospel_. This must be rejected.
 
 One day all will be made new (1 Corinthians 15:51-55), but until then we must press on towards healing from God Himself first and foremost in His word and in prayer. We should also pursue, as the Puritan Richard Baxter calls it, "a thorough healing", through the utilization of supplemental "Common Grace" helps of doctors, counselors, therapists, medications, and other scientific advancements when explicitly needed. Did not Paul console Timothy to partake in physical helps for his stomach? (1 Timothy 5:23) Are we to tell the suffering to simply just pray away their chilling misery when there is the slightest chance medicine could help? (James 2:15-17) Can we be so heartless as to berate the cancer patient for getting chemotherapy? How is it any different for diseases of the mind? Would not the sufferer be justified in condemning us as utterly miserable comforters? (Job 16:2, 6:14-27) Luke the physician (Colossians 4:14) would also correct us. More than all, our rebuke from the Lord will be grave and just one day if we continue in such an unloving mindset and not weeping with the suffering.
 
-However, all of that being said: I firmly believe that mental illness is **never** an excuse for a person's actions, nor should be embraced as an identity. The diagnosis of mental illness and the application of counseling, medication, and so forth can be abused without addressing any potential spiritual issues. This is indeed a reality that we need to be mindful of, but regardless: _abusus non tollit usum_ -- "abuse does not take away proper use." 
+However, all of that being said: **I firmly believe that mental illness is never an excuse for a person's actions, nor should be embraced as an identity.** The diagnosis of mental illness and the application of counseling, medication, and so forth can be abused without addressing any potential spiritual issues. This is indeed a reality that we need to be mindful of, but regardless: _abusus non tollit usum_ -- "abuse does not take away proper use." 
 
 The suffering soul may be (and often is) helped and healed by God through the application of multiple helps: doctors, medication, psychiatry, diet, exercise, sleep, time with family and friends, counseling, accountability, and therapy. Lest we in our pride be like the fool in "The Parable of the Drowning Man" and spurn God's practical and physical mercy, let us prayerfully use the gifts God has provided with discernment while trusting in Him alone above them all. 
 
@@ -76,18 +87,12 @@ I will let the great theologian John Calvin conclude the matter:
 > -- John Calvin, Institutes of the Christian Religion
 
 For more information, see the following:
-> [Depression, Anxiety, and the Christian Life: Practical Wisdom from Richard Baxter](https://www.amazon.com/Depression-Anxiety-Christian-Life-Practical-ebook/dp/B079XYRBGC?ie=UTF8&qid=1548605819&sr=8-1&keywords=Depression,+Anxiety,+and+the+Christian+Life+by+Michael+Lundy&linkCode=sl1&tag=biblicalcc-20&linkId=08f4ef962fca5019a90b4bd16d5f18f5&language=en_US)
->
-> [John Calvin on “Common Grace”](https://rpmministries.org/2022/08/john-calvin-on-common-grace/)
->
-> [John MacArthur on Mental Illness: This is Bad Theology](https://www.youtube.com/watch?v=2JFmxGYtEXk)
->
-> [What does the Bible say about dealing with mental illness?](https://www.gotquestions.org/mental-illness.html)
-> 
-> [Should a Christian take anti-depressants or other mental health medicines?](https://www.gotquestions.org/Christian-anti-depressants.html)
->
-> [Abuse Does Not Take Away Use](https://www.thegospelcoalition.org/article/abuse-does-not-take-away-use/)
->
+> [Depression, Anxiety, and the Christian Life: Practical Wisdom from Richard Baxter](https://www.amazon.com/Depression-Anxiety-Christian-Life-Practical-ebook/dp/B079XYRBGC?ie=UTF8&qid=1548605819&sr=8-1&keywords=Depression,+Anxiety,+and+the+Christian+Life+by+Michael+Lundy&linkCode=sl1&tag=biblicalcc-20&linkId=08f4ef962fca5019a90b4bd16d5f18f5&language=en_US)  
+> [John Calvin on “Common Grace”](https://rpmministries.org/2022/08/john-calvin-on-common-grace/)  
+> [John MacArthur on Mental Illness: This is Bad Theology](https://www.youtube.com/watch?v=2JFmxGYtEXk)  
+> [What does the Bible say about dealing with mental illness?](https://www.gotquestions.org/mental-illness.html)  
+> [Should a Christian take anti-depressants or other mental health medicines?](https://www.gotquestions.org/Christian-anti-depressants.html)  
+> [Abuse Does Not Take Away Use](https://www.thegospelcoalition.org/article/abuse-does-not-take-away-use/)  
 > [Beware the Emotional Prosperity Gospel](https://www.biblicalcounselingcoalition.org/2024/06/26/beware-the-emotional-prosperity-gospel/)
 
 ### Section 3: Politics
@@ -95,19 +100,17 @@ I believe that politics and government in America have become a hellish idol, po
 
 The two-party system has gone wrong--it's broken--perhaps even irrevocably. The system once structured to bring order and rule to society has not just stopped working, it has not just gone backwards, it is making things worse. What it begets is not justice, unity, or wisdom, but a lethal concoction of corruption, strife, division, polarization, and did I mention the corrupt politicians? It is destroying our ability to dialogue, triage pressing issues, or debate in a dignified and respectful way. Why try to have an honest political disagreement when you are just going to be called a "nazi" or "liberal"? Instead of honest men and women desiring to help the country, we are lost in a sea of ungodly grifters trying to captivate us--bedazzling the eyes and enraging the heart against "the enemy party" all the while they steal our wallets, votes, and souls. 
 
-For those of us who desire to follow Jesus, this cannot be our focus nor our hope. It should absolutely not be a major focus or hope in the believers life (1 Corinthians 2:2, Philippians 3:8-10) and for the absolute life of me I cannot fathom why so many Christians pay so much attention to the perverse unholy schlock being portrayed as "politics". It is _sickening_. This country once had great leaders like honest Abe Lincoln and in this day and age we get Screwtape's interns. 
+For those of us who desire to follow Jesus, this cannot be our focus nor our hope. It should absolutely not be a major focus or hope in the believers life (1 Corinthians 2:2, Philippians 3:8-10) and for the absolute life of me I cannot fathom why so many Christians pay so much attention to the perverse unholy schlock being portrayed as "politics". It is _sickening_. This country once had great leaders like honest Abe Lincoln and in this day and age we get Screwtape's devilish interns. 
 
 To elevate politics to such a place of concern is to trade the eternal for the temporary: the kingdom of God for the kingdom of men. How is anyone supposed to take us seriously when we speak of the holy joy of eternity—-of a Kingdom not of this world—-while wearing a shirt promoting Donald Trump or Joe Biden? What message does that send? That Jesus is King but also this political charlatan deserves my public endorsement? That I follow a loving God, yet cheer those who tear down, mock, and slander other human beings in debate? That moral compromise is acceptable so long as my party wins--even if they devour the innocent to get there? That the gospel needs political power to be effective? 
 
-**God forbid. May it never be.** 
+God forbid. May it never be.
 
-Such behavior is not righteous--it is sin--and it is destroying ourselves, our witness to the lost, and cheapening the message of the gospel. The Lord forgive us. I must therefore follow the one true King of kings and Lord of lords and hold no loyalty to any political party. 
+Such behavior is not righteous--it is sin--and it is destroying ourselves, our witness to the lost, and cheapening the message of the gospel. The Lord forgive us. **I must therefore follow the one true King of kings and Lord of lords and hold no loyalty to any political party.**
 
 We need to be ambassadors for Jesus Christ, the heavenly kingdom, and promote the gospel--not ever to advance a political agenda. We need to tell all people: the politician, the poor, the king, and pauper the exact same message (Acts 26:26-29). God alone is who we need to promote as the only hope. Jesus Himself was not concerned with earthly politics much at all except in the obedience to government law (Matthew 22:17–22, John 6:15), unless of course it causes a person to sin (Acts 5:29). 
 
-When we choose to focus on political worries and party squabbles, we cheapen the message of the gospel, divide the Church, damage our witness to the lost, and take the focus off of the true eternal King. As such, I also reject the idea of voting for "the lesser of two evils" to blindly promote any political party or politician that "aligns closest to biblical principles" in the two-party system. Such an argument is asinine.
-
-C.S. Lewis warned of this very temptation in his political essay, "Meditation on the Third Commandment",
+When we choose to focus on political worries and party squabbles, we cheapen the message of the gospel, divide the Church, damage our witness to the lost, and take the focus off of the true eternal King. As such, I also reject the idea of voting for "the lesser of two evils" to blindly promote any political party or politician that "aligns closest to biblical principles" in the two-party system. Such an argument is asinine. C.S. Lewis warned of this very temptation in his political essay, "Meditation on the Third Commandment",
 
 > "It is not reasonable to suppose that such a Christian Party will acquire new powers of leavening the infidel organization to which it is attached. Why should it? Whatever it calls itself, it will represent, not Christendom, but a part of Christendom. The principle which divides it from its brethren and unites it to its political allies will not be theological. It will have no authority to speak for Christianity; it will have no more power than the political skill of its members gives it to control the behavior of its unbelieving allies. 
 >
@@ -116,14 +119,14 @@ C.S. Lewis warned of this very temptation in his political essay, "Meditation on
 
 We should of course try to vote faithfully and biblically as God directs our conscience. We to the best of our ability should indeed obey the law and try to vote in a way that restrains evil and promotes the most good. But do not deceive yourself thinking that either the red or blue party is "godly" nor treat it like your tribal identity. God is sovereign over everything (Daniel 2:21, John 19:11) and will repay the corrupt in power.
 
+I will never again mention politics on this site--this is all I will ever say about it.
+
 For more information, see the following:
-> [Reflections: Christianity And Politics](https://www.cslewisinstitute.org/resources/reflections-may-2019/)
-> 
-> [What Did Jesus Teach about Politics?](https://www.crossway.org/articles/what-did-jesus-teach-about-politics/)
-> 
-> [Reflections on Faith and Politics](https://gospelinlife.com/article/reflections-on-faith-and-politics/)
->
-> [The Problem of Voting for Candidates Who Promise to do Evil](https://mereorthodoxy.com/2024-election-vote)
+> [Reflections: Christianity And Politics](https://www.cslewisinstitute.org/resources/reflections-may-2019/)  
+> [What Did Jesus Teach about Politics?](https://www.crossway.org/articles/what-did-jesus-teach-about-politics/)  
+> [Reflections on Faith and Politics](https://gospelinlife.com/article/reflections-on-faith-and-politics/)  
+> [The Problem of Voting for Candidates Who Promise to do Evil](https://mereorthodoxy.com/2024-election-vote)  
+> [Why I Don’t Think You Must Vote for the Lesser of Two Evils](https://www.thegospelcoalition.org/article/why-i-dont-think-you-must-vote-for-lesser-two-evils/)
 
 ### Section 4: Interpreting End Times
 I believe that every generation is tempted to believe that the end is near. As such, I do not think it is wise to spend time obsessing over, interpreting, or trying to predict details of the future end times based on current events (Matthew 24:36, Mark 13:32) while neglecting the present. The end has always been near ever since Jesus rose from the dead. 
