@@ -59,3 +59,42 @@ What a wonderfully biblical and beautiful truth.
 **Rating: B** : A great movie on the value of an "ordinary" life.
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
+
+Why should I make this channel?
+
+No, genuinely—I’m asking you—why should I make this YouTube channel?
+
+I’ve been tossing this idea back and forth in my brain for some time now, and I’ve come to a point where I just need to make this one video and let God and the internet decide what happens from here.
+
+I’m battling two very different mindsets right now.
+
+The first one is self-deprecating:
+“Why on earth would people want to listen to you? What do you even have to offer? There are far more godly, talented, and wise voices than yours. Yes, you’re a Christian—but why talk about literature, art, anime, music, movies, and TV? Shouldn’t you just talk about the Gospel? Are you even going to make a difference? Why you?”
+
+The second mindset is more hopeful:
+“God made you as a unique person. No one else is 100% like you. God saved you and loves you—so why not talk about Him as revealed in everything? People, saved or unsaved, need to be pointed to God. You can help do that. All true beauty—whether found in art, music, books, or visual storytelling—ultimately point to the One Master Storyteller, the source of all beauty: God. If you can help others see that… why stay a silent voice?”
+
+So again, dear viewer, I must ask: Should I make this channel?
+Does YouTube really need another Christian voice?
+More specifically... does it need mine?
+
+For example, would you want to hear me talk about how the animated movie Your Name is one of the most beautiful films I’ve ever seen—and how it echoes the biblical ideas of providence, predestination, and our deep human longing to be known?
+
+Is that something you’d want?
+Tell me. Or maybe... don’t.
+Maybe this isn’t about answers. 
+Should I even be asking you? 
+Am I just insecure and should do it anyway?
+
+I’m no one special. I’m just a Christian—a sinner God chose to love. I’m not a preacher. I’m not a Bible scholar. I’m just an ordinary man.
+
+As I record this, I’m 30 years old. And the older I get, the more I wonder what I could possibly offer—to God, to anyone else... or even to the entire internet. Honestly, I feel very lost right now.
+
+Maybe that’s why I’m making this video—to cast a line out and see if there’s any potential interest in what I could share.
+
+I’d love to talk about books, music, anime, TV, movies—all the places I hear the whispers (and sometimes shouts) of the Father, Son, and Holy Spirit. I just honestly don’t know at this point if that would help anyone—Christian or non-Christian, skeptic or believer.
+But maybe it might.
+
+I believe that every eternal truth, every little flower, every sound, every animal, every pure and beautiful thing has God's fingerprints etched upon it. I just want to help you see that.
+
+Do you?

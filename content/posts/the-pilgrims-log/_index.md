@@ -4,8 +4,6 @@ type: docs
 weight: 1
 ---
 
-I talk about living the Christian life here.
-
 > O despairing one, turn in here.  
 > This is a place you need not fear.
 > 

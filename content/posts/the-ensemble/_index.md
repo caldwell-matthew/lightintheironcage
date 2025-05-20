@@ -4,8 +4,6 @@ type: docs
 weight: 3
 ---
 
-I talk about masterful music worth listening to here.
-
 <!-- Spotify -->
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3muMI7YXx7JU3yaaJzWVPw?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

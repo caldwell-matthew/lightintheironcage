@@ -4,12 +4,8 @@ type: docs
 weight: 4
 ---
 
-I talk about movies, tv, and anime here. 
-
 ##### Anime Tier List
-Anime 													 																						| Rating 	 | Comments 											
---------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- 
-[Fullmetal Alchemist Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)  																						| S				 | A grand masterpiece discussing the nature of sin, religion, and science.
+{{< tier-list-table >}}
 
 ##### TV Tier List
 TV Show 												 																					  | Rating 	 | Comments 												
