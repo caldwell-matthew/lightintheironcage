@@ -4,84 +4,77 @@ type: docs
 weight: 4
 ---
 
-##### TV Tier List
-TV Show 												 																					  | Rating 	 | Comments 												
---------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- 
-[Avatar: The Last Airbender](https://www.imdb.com/title/tt0417299/)	     		| A				 | A journey of redemption, honor, shame, forgiveness, and destiny. 
+##### Anime Recommendations
+{{< reviewtable type="anime" >}}
 
-##### Movie Tier List
-Movie													   																						| Rating 	 | Comments 												
---------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------- 
-[Blade Runner](https://www.imdb.com/title/tt0083658/)					   	 					| S			 	 | A poignant examination on what defines humanity compared to an android.
-[The Lord of the Rings](https://www.imdb.com/title/tt0120737/)					   	| S		     | A wonderful adaptation of Tolkien's masterpiece. 		
-[The Truman Show](https://www.imdb.com/title/tt0120382/)								   	| A	  	 	 | A psychological horror of what humanity can justify as "entertainment" and man's desire to meet his creator.
-[The Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/) 		| B	  	 	 | A great movie on the value of an "ordinary" life. 
+<!-- [
+  { "title": "Kaiju No. 8", "rating": "", "comments": "" },
+  { "title": "Oshi No Ko", "rating": "", "comments": "" },
+  { "title": "Girls Last Tour", "rating": "", "comments": "" },
+  { "title": "Nichijou", "rating": "", "comments": "" },
+  { "title": "Lycoris Recoil", "rating": "", "comments": "" },
+  { "title": "Frieren", "rating": "", "comments": "" },
+  { "title": "Violet Evergarden", "rating": "", "comments": "" },
+  { "title": "Clannad", "rating": "", "comments": "" },
+  { "title": "Vinland Saga", "rating": "", "comments": "" },
+  { "title": "Bocchi", "rating": "", "comments": "" },
+  { "title": "A Place Further Than The Universe", "rating": "", "comments": "" },
+  { "title": "A Lull in the Sea", "rating": "", "comments": "" },
+  { "title": "Samurai Champloo", "rating": "", "comments": "" },
+  { "title": "Paranoia Agent", "rating": "", "comments": "" },
+  { "title": "Anohana", "rating": "", "comments": "" },
+  { "title": "Cowboy Bebop", "rating": "", "comments": "" },
+  { "title": "Gurren Lagann", "rating": "", "comments": "" },
+  { "title": "Shirobako", "rating": "", "comments": "" },
+  { "title": "K-On!", "rating": "", "comments": "" },
+  { "title": "Aggretsuko", "rating": "", "comments": "" },
+  { "title": "Love Live! Sunshine!!", "rating": "", "comments": "" },
+  { "title": "The Apothecary Diaries", "rating": "", "comments": "" },
+  { "title": "Keep Your Hands Off Eizouken!", "rating": "", "comments": "" },
+  { "title": "Bocchi the Rock!", "rating": "", "comments": "" },
+  { "title": "Sound! Euphonium", "rating": "", "comments": "" },
+  { "title": "Chihayafuru", "rating": "", "comments": "" },
+  { "title": "School Rumble", "rating": "", "comments": "" },
+  { "title": "Full Metal Panic? Fumoffu", "rating": "", "comments": "" },
+  { "title": "Monthly Girls' Nozaki-kun", "rating": "", "comments": "" },
+  { "title": "Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley", "rating": "", "comments": "" },
+  { "title": "Hinamatsuri", "rating": "", "comments": "" },
+  { "title": "Made in Abyss", "rating": "", "comments": "" },
+  { "title": "Death Note", "rating": "", "comments": "" },
+  { "title": "Delicious in Dungeon", "rating": "", "comments": "" },
+  { "title": "Haikyu!!", "rating": "", "comments": "" },
+  { "title": "Ranking of Kings", "rating": "", "comments": "" },
+  { "title": "Pluto", "rating": "", "comments": "" },
+  { "title": "Fullmetal Alchemist: Brotherhood", "rating": "", "comments": "" },
+  { "title": "Monster", "rating": "", "comments": "" },
+  { "title": "Toradora", "rating": "", "comments": "" },
+  { "title": "Steins;Gate", "rating": "", "comments": "" },
+  { "title": "Mob Psycho", "rating": "", "comments": "" },
+  { "title": "Laid-Back Camp", "rating": "", "comments": "" },
+  { "title": "Barakamon", "rating": "", "comments": "" },
+  { "title": "Sweetness and Lightning", "rating": "", "comments": "" },
+  { "title": "Hyouka", "rating": "", "comments": "" },
+  { "title": "Natsume's Book of Friends", "rating": "", "comments": "" },
+  { "title": "Mushi-Shi", "rating": "", "comments": "" },
+  { "title": "Usagi Drop", "rating": "", "comments": "" },
+  { "title": "Little Jumbo", "rating": "", "comments": "" },
+  { "title": "Death Parade", "rating": "", "comments": "" },
+  { "title": "Ping Pong the Animation", "rating": "", "comments": "" },
+  { "title": "Hajime no Ippo", "rating": "", "comments": "" },
+  { "title": "The Melancholy of Haruhi Suzumiya", "rating": "", "comments": "" },
+  { "title": "Silver Spoon", "rating": "", "comments": "" },
+  { "title": "Perfect Blue", "rating": "", "comments": "" },
+  { "title": "Blue Giant", "rating": "", "comments": "" },
+  { "title": "On-Gaku: Our Sound", "rating": "", "comments": "" },
+  { "title": "Only Yesterday", "rating": "", "comments": "" },
+  { "title": "Words Bubble Up Like Soda Pop", "rating": "", "comments": "" },
+  { "title": "Ringing Bell", "rating": "", "comments": "" }
+] -->
 
-Christian Anime Recommendations
-Kaiju No. 8
-Oshi No Ko
-Girls Last Tour
-Nichijou
-Lycoris Recoil
-Frieren
-Violet Evergarden
-Clannad
-Vinland Saga
-Bocchi
+##### Movie Recommendations
+{{< reviewtable type="movies" >}}
 
-ProZD Anime Recommendations
-- A Place Further Than The Universe
-- A Lull in the Sea
-- Samurai Champloo
-- Paranoia Agent
-- Anohana
-- Cowboy Bebop
-- Gurren Lagann
-- Shirobako
-- K-On!
-- Aggretsuko
-- Love Live! Sunshine!!
-- The Apothecary Diaries
-- Keep YOur Hands Off Eizouken!
-- Bocchi the Rock!
-- Sound! Euphonium
-- Chihayafuru
-- School Rumble
-- Nichijou
-- Full Metal Panic? Fumoffu
-- Monthly Girls' Nozaki-kun
-- Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley
-- Hinamatsuri
-- Made in Abyss
-- Death Note
-- Delicious in Dungeon
-- Haikyu!!
-- Ranking of Kings
-- Pluto (sounds very cyberpunk)
-- FMAB
-- Monster
-- Toradora
-- Steins;Gate
-- Mob Psycho 
-- Laid-Back Camp
-- Barakamon
-- Sweetness and Lightning
-- Hyouka
-- Natsume's Book of Friends
-- Mushi-Shi
-- Usagi Drop
-- Little Jumbo
-- Death Parade
-- Ping Pong the Animation
-- Vinland Saga
-- Hajime no Ippo
-- Melancholy of Haruhi Suzumiya
-- Silver Spoon
-- Perfect Blue
-- Blue Giant
-- On-Gaku Our Sound
-- Only Yesterday
-- Words Bubble Up Like Soda Pop
-- Ringing Bell
+##### TV Recommendations
+{{< reviewtable type="tv" >}}
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

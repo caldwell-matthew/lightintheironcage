@@ -1,0 +1,25 @@
+{{- $type := .Get "type" -}}
+{{- $data := index site.Data $type -}}
+
+{{- if $data -}}
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Rating</th>
+      <th>Comments</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range $item := $data -}}
+      <tr>
+        <td>{{ $item.title | markdownify }}</td>
+        <td>{{ $item.rating }}</td>
+        <td>{{ $item.comments | markdownify }}</td>
+      </tr>
+    {{- end -}}
+  </tbody>
+</table>
+{{- else -}}
+<p>No data found for type: {{ $type }}</p>
+{{- end -}}

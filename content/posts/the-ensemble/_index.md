@@ -19,4 +19,7 @@ weight: 3
 > When you were in school?  
 > -- [Black Sabbath - After Forever](https://open.spotify.com/track/3muMI7YXx7JU3yaaJzWVPw)
 
+<!-- ##### Book Recommendations
+{{< reviewtable type="books" >}} -->
+
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

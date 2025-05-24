@@ -12,19 +12,17 @@ toc: true
 
 ### Bible Study Tools
 
-- https://www.Biblegateway.com/
 - https://www.Bibleref.com/
 - https://www.cslewisinstitute.org/
 - https://www.crossway.org/
 - https://www.desiringgod.org/
+- https://www.emmascrivener.net/
 - https://www.gotquestions.org/
-- https://www.gty.org/
 - https://www.ligonier.org/
 - https://mereorthodoxy.com/
 - https://www.preceptaustin.org/
 - https://www.spurgeongems.org/
 - https://www.thegospelcoalition.org/
-- https://www.emmascrivener.net/
 
 ## Mental Health Resources
 
@@ -36,9 +34,7 @@ toc: true
 ### Secular Counseling
 - https://www.samhsa.gov/find-help/national-helpline
 - https://www.apa.org/topics/crisis-hotlines
-- https://mhanational.org/crisisresources
 - https://www.psychologytoday.com/us/therapists
-- https://www.nami.org/home
 
 ### Scrupulosity (Religious OCD)
 - https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity/
@@ -47,9 +43,9 @@ toc: true
 - https://graceaboundinginocd.com/
 - https://livingart77.wordpress.com/
 - https://scrupulosity.com/scrupulosity/
-- MORE COMING...
+- MORE COMING SOON...
 
-## Books
+## Good Books
 
 ### Mere Christianity
 
@@ -60,7 +56,7 @@ toc: true
 > Probably earthly pleasures were never meant to satisfy it, but only to arouse it, to suggest the real thing. If that is so, I must take care, on the one hand, never to despise, or be unthankful for, these earthly blessings, and on the other, never to mistake them for the something else of which they are only a kind of copy, or echo, or mirage. I must keep alive in myself the desire for my true country, which I shall not find till after death; I must never let it get snowed under or turned aside; I must make it the main object of life to press on to that other country and to help others to do the same."  
 > -- C.S. Lewis
 
-### Gentle and Lowly: The Heart of Christ for Sinners and Sufferers
+### Gentle and Lowly
 
 > "That God is rich in mercy means that your regions of deepest shame and regret are not hotels through which divine mercy passes but homes in which divine mercy abides. It means the things about you that make you cringe most, make him hug hardest. It means his mercy is not calculating and cautious, like ours.
 >

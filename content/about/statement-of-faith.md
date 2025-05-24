@@ -62,7 +62,7 @@ I absolutely will never recommend trash nor explicitly sinful content. I will on
 For more information, see the following:
 > [The Goodness of God and Common Grace](https://www.thegospelcoalition.org/essay/goodness-god-common-grace)  
 > [The Gift of Music: Common Grace and Common Ground](https://www.cslewisinstitute.org/resources/the-gift-of-music-common-grace-and-common-ground/)  
-> [What is common grace?](https://www.gotquestions.org/common-grace.html)
+> [What is common grace?](https://www.gotquestions.org/common-grace.html)  
 > [Should I Watch This?](https://www.thegospelcoalition.org/article/should-i-watch-this-5-questions-for-the-discerning-viewer/)  
 > [What should be the Christian view of anime?](https://www.gotquestions.org/Christian-anime.html)  
 > [Is it sin to watch movies?](https://www.compellingtruth.org/sin-movies.html)  
@@ -102,9 +102,7 @@ The two-party system has gone wrong--it's broken--perhaps even irrevocably. The 
 
 For those of us who desire to follow Jesus, this cannot be our focus nor our hope. It should absolutely not be a major focus or hope in the believers life (1 Corinthians 2:2, Philippians 3:8-10) and for the absolute life of me I cannot fathom why so many Christians pay so much attention to the perverse unholy schlock being portrayed as "politics". It is _sickening_. This country once had great leaders like honest Abe Lincoln and in this day and age we get Screwtape's devilish interns. 
 
-To elevate politics to such a place of concern is to trade the eternal for the temporary: the kingdom of God for the kingdom of men. How is anyone supposed to take us seriously when we speak of the holy joy of eternity—-of a Kingdom not of this world—-while wearing a shirt promoting Donald Trump or Joe Biden? What message does that send? That Jesus is King but also this political charlatan deserves my public endorsement? That I follow a loving God, yet cheer those who tear down, mock, and slander other human beings in debate? That moral compromise is acceptable so long as my party wins--even if they devour the innocent to get there? That the gospel needs political power to be effective? 
-
-God forbid. May it never be.
+To elevate politics to such a place of concern is to trade the eternal for the temporary: the kingdom of God for the kingdom of men. How is anyone supposed to take us seriously when we speak of the holy joy of eternity—-of a Kingdom not of this world—-while wearing a shirt promoting Donald Trump or Joe Biden? What message does that send? That Jesus is King but also this political charlatan deserves my public endorsement? That I follow a loving God, yet cheer those who tear down, mock, and slander other human beings in debate? That moral compromise is acceptable so long as my party wins--even if they devour the innocent to get there? That the gospel needs political power to be effective? God forbid it.
 
 Such behavior is not righteous--it is sin--and it is destroying ourselves, our witness to the lost, and cheapening the message of the gospel. The Lord forgive us. **I must therefore follow the one true King of kings and Lord of lords and hold no loyalty to any political party.**
 

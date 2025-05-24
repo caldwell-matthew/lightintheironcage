@@ -1,0 +1,22 @@
+[
+  {
+    "title": "[Blade Runner](https://www.imdb.com/title/tt0083658/)",
+    "rating": "S",
+    "comments": "A poignant examination on what defines humanity compared to an android."
+  },
+  {
+    "title": "[The Lord of the Rings](https://www.imdb.com/title/tt0120737/)",
+    "rating": "S",
+    "comments": "A wonderful adaptation of Tolkien's masterpiece."
+  },
+  {
+    "title": "[The Truman Show](https://www.imdb.com/title/tt0120382/)",
+    "rating": "A",
+    "comments": "A psychological horror of what humanity can justify as \"entertainment\" and man's desire to meet his creator."
+  },
+  {
+    "title": "[The Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/)",
+    "rating": "B",
+    "comments": "A great movie on the value of an \"ordinary\" life."
+  }
+]
