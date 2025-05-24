@@ -3,7 +3,7 @@ title: Welcome, friend. Stop and listen.
 toc: false
 ---
 
-test
+test 2
 
 > "Come now, let us reason together, says the Lord: though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool."  
 > -- Isaiah 1:18
