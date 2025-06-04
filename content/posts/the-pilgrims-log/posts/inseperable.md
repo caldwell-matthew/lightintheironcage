@@ -29,4 +29,28 @@ This is what Paul is talking about when he closes the 8th chapter of Romans: if 
 
 If you fully grasp this, it should make you feel almost uncomfortable– exposed, known, and loved at a deeper level than you may be comfortable with or used to. You might even feel anxious or embarrassed or simply blush in front of this kind One who is not shy at all in expressing how much He loves you. You don’t know how to handle it. Not a negative way of course, but almost in a baffling way. A way where you are almost scared in a sense of “I don't know why He loves me to such a degree and I also have no idea what He is going to do next.” That is precisely correct. While it sounds “too good to be true”, it is true. I myself am trying to understand this fully. I don't think it will be fully possible to understand God’s infinite love this side of eternity. I cannot explain God’s love perfectly. I can certainly try to as you have read above, but it is but a whisper of what His love is really like. Rest in His inseparable love.
 
+> but your iniquities have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear.  
+> -- Isaiah 59:2
+
+> What then shall we say to these things? If God is for us, who can be against us? He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? Who shall bring any charge against God’s elect? It is God who justifies. Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us. Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword? As it is written, “For your sake we are being killed all the day long; we are regarded as sheep to be slaughtered.” No, in all these things we are more than conquerors through him who loved us. For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.  
+> -- Romans 8:31–39
+
+> The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.  
+> -- Zephaniah 3:17
+
+> Is Ephraim my dear son? Is he my darling child? For as often as I speak against him, I do remember him still. Therefore my heart yearns for him; I will surely have mercy on him, declares the LORD.  
+> -- Jeremiah 31:20
+
+> And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him.  
+> -- Luke 15:20
+
+> “Can a woman forget her nursing child, that she should have no compassion on the son of her womb? Even these may forget, yet I will not forget you. Behold, I have engraved you on the palms of my hands; your walls are continually before me.  
+> -- Isaiah 49:15–16
+
+> Be strong and courageous. Do not fear or be in dread of them, for it is the LORD your God who goes with you. He will not leave you or forsake you.” Then Moses summoned Joshua and said to him in the sight of all Israel, “Be strong and courageous, for you shall go with this people into the land that the LORD has sworn to their fathers to give them, and you shall put them in possession of it. It is the LORD who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.”  
+> -- Deuteronomy 31:6–8
+
+> Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will, to the praise of his glorious grace, with which he has blessed us in the Beloved. In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he lavished upon us, in all wisdom and insight making known to us the mystery of his will, according to his purpose, which he set forth in Christ as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth. In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will, so that we who were the first to hope in Christ might be to the praise of his glory. In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory.  
+> -- Ephesians 1:3-14
+
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

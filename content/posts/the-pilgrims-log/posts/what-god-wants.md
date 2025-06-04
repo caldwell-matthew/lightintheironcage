@@ -65,3 +65,79 @@ Perhaps the biggest problem that we sinners have is that we all in some way try 
 We must come home to the Father who loved us so much that He Himself mended the broken relationship by sacrificing His Most Beloved Son to bring the younger and older brothers back in. 
 
 What God wants is your faithful love for Him. Not your works, not your sacrifices, but love. 
+
+> For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.  
+> -- Ephesians 2:8–10
+
+> And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him.  
+> -- Luke 15:20
+
+> You hypocrites! Well did Isaiah prophesy of you, when he said:
+“‘This people honors me with their lips, but their heart is far from me;
+in vain do they worship me, Teaching as doctrines the commandments of men.’”  
+> -- Matthew 15:7–9
+
+> I will give them a heart to know me, that I am the LORD, and they shall be my people and I will be their God, for they shall return to me with their whole heart.  
+> -- Jeremiah 24:7
+
+> “With what shall I come before the LORD,
+	and bow myself before God on high?
+Shall I come before him with burnt offerings,
+	with calves a year old?
+Will the LORD be pleased with thousands of rams,
+	with ten thousands of rivers of oil?
+Shall I give my firstborn for my transgression,
+	the fruit of my body for the sin of my soul?”
+He has told you, O man, what is good;
+	and what does the LORD require of you
+but to do justice, and to love kindness,
+	and to walk humbly with your God?  
+> -- Micah 6:6–8
+
+> For you will not delight in sacrifice, or I would give it;
+	you will not be pleased with a burnt offering.
+The sacrifices of God are a broken spirit;
+	a broken and contrite heart, O God, you will not despise.
+Do good to Zion in your good pleasure;
+	build up the walls of Jerusalem;
+then will you delight in right sacrifices,
+	in burnt offerings and whole burnt offerings;
+	then bulls will be offered on your altar.  
+> -- Psalm 51:16–19
+
+> Go and learn what this means: ‘I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.  
+> -- Matthew 9:13
+
+> When Jesus heard this, he marveled and said to those who followed him, “Truly, I tell you, with no one in Israel have I found such faith.  
+> -- Matthew 8:10
+
+> For I desire steadfast love and not sacrifice,
+	the knowledge of God rather than burnt offerings.  
+> -- Hosea 6:6
+
+> And Samuel said,
+“Has the LORD as great delight in burnt offerings and sacrifices,
+	as in obeying the voice of the LORD?
+Behold, to obey is better than sacrifice,
+	and to listen than the fat of rams.
+For rebellion is as the sin of divination,
+	and presumption is as iniquity and idolatry.
+Because you have rejected the word of the LORD,
+	he has also rejected you from being king.”  
+> -- 1 Samuel 15:22–23
+
+> For every beast of the forest is mine,
+	the cattle on a thousand hills.
+I know all the birds of the hills,
+	and all that moves in the field is mine.
+“If I were hungry, I would not tell you,
+	for the world and its fullness are mine.
+Do I eat the flesh of bulls
+	or drink the blood of goats?
+Offer to God a sacrifice of thanksgiving,
+	and perform your vows to the Most High,
+and call upon me in the day of trouble;
+	I will deliver you, and you shall glorify me.”  
+> -- Psalm 50:10–15
+
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

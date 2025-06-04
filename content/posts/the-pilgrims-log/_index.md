@@ -25,4 +25,6 @@ weight: 1
 > I know this truly; for He saved even me.  
 > -- One Once Despairing
 
+![The Man in the Iron Cage](/img/iron-cage.png "Frederick Barnard - The Man in the Iron Cage")
+
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

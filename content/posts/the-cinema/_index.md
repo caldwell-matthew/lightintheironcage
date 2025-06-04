@@ -39,7 +39,6 @@ weight: 4
   { "title": "Monthly Girls' Nozaki-kun", "rating": "", "comments": "" },
   { "title": "Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley", "rating": "", "comments": "" },
   { "title": "Hinamatsuri", "rating": "", "comments": "" },
-  { "title": "Made in Abyss", "rating": "", "comments": "" },
   { "title": "Death Note", "rating": "", "comments": "" },
   { "title": "Delicious in Dungeon", "rating": "", "comments": "" },
   { "title": "Haikyu!!", "rating": "", "comments": "" },
